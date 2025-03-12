@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Flor Vega Castillo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Flor
@@ -25,24 +25,18 @@ role: PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Montana State University
-    url: https://www.cs.montana.edu/users/moralesluna/
+    url: https://www.montana.edu/gradschool/staff.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'giorgiomorales@ieee.org'
+    url: 'florvega526@gmail.com'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/GiorgioMorales
+  - icon: brands/instagram
+    url: https://www.instagram.com/florvega.c
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/giorgio-morales/
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Giorgio-Morales
-  - icon: academicons/google-scholar
-    url: https://scholar.google.es/citations?user=Nxia-8gAAAAJ&hl=es
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0003-2911-8558
+    url: https://www.linkedin.com/in/flor-vega-castillo/
 
 interests:
   - Communications
