@@ -31,12 +31,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'florvega526@gmail.com'
+    url: 'giorgiomorales@ieee.org'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/florvega.c
+  - icon: brands/github
+    url: https://github.com/GiorgioMorales
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/flor-vega-castillo/)
+    url: https://www.linkedin.com/in/giorgio-morales/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Giorgio-Morales
+  - icon: academicons/google-scholar
+    url: https://scholar.google.es/citations?user=Nxia-8gAAAAJ&hl=es
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2911-8558
 
 interests:
   - Communications
