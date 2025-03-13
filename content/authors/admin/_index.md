@@ -50,15 +50,15 @@ education:
     summary: |
       GPA: 4.0/4.0. Advisor: Dr. Eric K. Austin.
   - area: Master of Science in Public Relations
-    institution: Montana State University
+    institution: Montana State University - Billings
     date_start: 2021-01-01
     date_end: 2022-07-31
     summary: |
       GPA: 3.7/4.0
   - area: Bachelor in Communication Sciences
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Cesar Vallejo University
+    date_start: 2012-03-01
+    date_end: 2016-12-31
     summary: |
       Summa cum laude
 work:
