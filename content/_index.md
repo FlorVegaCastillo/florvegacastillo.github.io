@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/FlorVega-Castillo2025.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         color: black
         image:
