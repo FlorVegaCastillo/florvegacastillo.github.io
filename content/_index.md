@@ -27,7 +27,7 @@ sections:
           filename: purple.jpg
           filters:
             brightness: 1.0
-          size: actual
+          size: cover
           position: center
           parallax: true
   - block: markdown
