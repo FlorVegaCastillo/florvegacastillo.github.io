@@ -65,11 +65,12 @@ education:
     summary: |
       Summa cum laude
 work:
-  - position: Graduate Recruitment and Admissions Assistant - MSU Graduate School Department
+  - position: Graduate Recruitment and Admissions Assistant (MSU Graduate School Department)
     company_name: Montana State University
     company_url: 'https://www.montana.edu/'
     company_logo: ''
     date_start: 2022-08-16
+    date_end: 'Present'
     summary: |2-
       Responsibilities include:
       - Organize and host the Graduate School's signature annual events for prospective and current students.
@@ -79,7 +80,7 @@ work:
       - Interview current graduate students for the creation of new student success story entries.
       - Streamline processes through cross-office training in admission-related tasks and information entry in the office manuals.
       - Revitalize current email templates for email communication campaigns and create new templates for the same purpose.
-  - position: Master Degree Summer Intern
+  - position: Master Degree Summer Intern (Early Childhood Services)
     company_name: Family Outreach
     company_url: 'https://familyoutreach.org/'
     company_logo: ''
@@ -92,7 +93,7 @@ work:
       - Facilitated collaboration among nonprofit organizations by finding common ground across their mission statement.
       - Advanced ways to engage current partners and donors, including creating a monthly newsletter and developing reels for social media and website.
       - Participated in fundraising planning activities with colleagues in the organization’s different offices across the state.
-  - position: Graduate Writing Assistant - MSUB Academic Support Center
+  - position: Graduate Writing Assistant (MSUB Academic Support Center)
     company_name: Montana State University Billings
     company_url: 'https://www.msubillings.edu/'
     company_logo: ''
