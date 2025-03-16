@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-recognitions
+  - block: resume-awards
     content:
       title: Awards & Recognitions
       username: admin

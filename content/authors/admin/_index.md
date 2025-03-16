@@ -214,11 +214,11 @@ languages:
   - name: French
     percent: 25
 
-# Recognitions.
+# Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-recognitions:
+awards:
   - title: President’s Award for Gender Equity 
     url: https://www.linkedin.com/feed/update/urn:li:activity:7191833563829280769/
     date: '2024-05-01'
