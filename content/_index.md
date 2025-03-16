@@ -35,11 +35,9 @@ sections:
       title: '📚 My Portfolio'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I work on accessibility and belonging in the public sector, in topics related to education, communications, culture, science, and technology. My fields of interest also include multiculturalism and increased opportunities for under-served and under-represented communities, including first-generation students and multi-language speakers.
         
-        Please reach out to collaborate 😃
+        Let's connect! 😃
     design:
       columns: '1'
   - block: collection
