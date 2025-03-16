@@ -16,6 +16,9 @@ main:
   - name: Projects and Samples
     url: projects/
     weight: 30
+  - name: Recognitions
+    url: recognitions/
+    weight: 45
   - name: Talks
     url: /#talks
     weight: 50
