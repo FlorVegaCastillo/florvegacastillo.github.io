@@ -46,7 +46,8 @@ sections:
       title: Featured News
       filters:
         folders:
-          - event
+          - post
+        featured_only: true
     design:
       view: article-grid
       columns: 2
