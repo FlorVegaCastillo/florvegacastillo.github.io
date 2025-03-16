@@ -70,7 +70,6 @@ work:
     company_url: 'https://www.montana.edu/'
     company_logo: ''
     date_start: 2022-08-16
-    date_end: 'Present'
     summary: |2-
       Responsibilities include:
       - Organize and host the Graduate School's signature annual events for prospective and current students.
@@ -108,7 +107,7 @@ work:
       - Executed graphic design pieces for social media and other physical platforms.
       - Produced and edited institutional videos.
       - Led blog management and developed news articles
-  - position: President and Co-founder - Online nonprofit organization
+  - position: President and Co-founder (Online nonprofit organization)
     company_name: Cuenta Conmigo
     company_url: 'https://www.instagram.com/cuentaconmigocomunidad/'
     company_logo: ''
@@ -119,7 +118,7 @@ work:
       - Formalized institutional cooperation agreements with other nonprofit organizations, schools, and student organizations.
       - Facilitated the creation of all materials used in the workshops as well as performed as a speaker for such events for Peruvian teenagers aged 14-17.
       - Promoted all social media and local press activities and served as a spokesperson in interviews.
-  - position: Communications Analyst - Public Relations and Affairs Office
+  - position: Communications Analyst (Public Relations and Affairs Office)
     company_name: INICTEL-UNI - Telecommunications Research and Training National Institute
     company_url: 'https://www.gob.pe/inictel-uni'
     company_logo: ''
