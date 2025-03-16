@@ -143,17 +143,29 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Project Management
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Event Planning
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Stakeholder Engagement
         description: ''
-        percent: 40
+        percent: 100
+        icon: circle-stack
+      - name: Media Relations
+        description: ''
+        percent: 100
+        icon: circle-stack
+      - name: Multiplatform Content Creation
+        description: ''
+        percent: 100
+        icon: circle-stack
+      - name: Community Outreach
+        description: ''
+        percent: 100
         icon: circle-stack
   - name: Soft Skills
     items:
@@ -169,7 +181,11 @@ skills:
         description: ''
         percent: 100
         icon: circle-stack
-      - name: Culturally Aware
+      - name: Pragmatic
+        description: ''
+        percent: 100
+        icon: circle-stack 
+        name: Collaborative
         description: ''
         percent: 100
         icon: circle-stack    
