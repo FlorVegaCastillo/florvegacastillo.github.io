@@ -220,21 +220,21 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards and recognitions:
   - title: President’s Award for Gender Equity 
-    url: https://www.linkedin.com/feed/update/urn:li:activity:7191833563829280769/
+    url: 'https://www.linkedin.com/feed/update/urn:li:activity:7191833563829280769/'
     date: '2024-05-01'
     awarder: MSU Office of the President
     icon: coursera
     summary: |
       The President’s Award for Gender Equity honors members of the MSU community who have worked to improve issues related to gender equity.
   - title: Student highlight in MSU official magazine 
-    url: https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together
+    url: 'https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together'
     date: '2024-04-24'
     awarder: MSU Mountains and Minds Magazine
     icon: edx
     summary: |
       The Mountains and Minds magazine highlights students for their academic, professional, and personal achievements.
   - title: Spirit Outstanding Student Award 
-    url: https://www.linkedin.com/posts/flor-vega-castillo_leadership-montanastate-montanastateuniversity-activity-7061499264090181632-yTyB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U
+    url: 'https://www.linkedin.com/posts/flor-vega-castillo_leadership-montanastate-montanastateuniversity-activity-7061499264090181632-yTyB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U'
     date: '2023-05-05'
     awarder: datacamp
     icon: datacamp
