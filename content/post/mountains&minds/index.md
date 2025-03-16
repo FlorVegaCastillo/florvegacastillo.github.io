@@ -10,6 +10,7 @@ tags:
 image:
   caption: 'Photography by Colter Peterson'
 featured: true
+focal_point: "top"
 ---
 
 I got featured in Montana State University-Bozeman [Mountains & Minds magazine](https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together) (Spring 2024 edition) 💙💛
