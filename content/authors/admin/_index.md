@@ -161,6 +161,9 @@ awards:
 
 ## About Me
 
-> *You might be alone in this moment. But no one is born into this world to be alone.* <div align="right">— Jaguar D. Saul</div>
+> *You might be alone in this moment. But no one is born into this world to be alone.*  
+> <div align="right">— Jaguar D. Saul</div>
 
-Hi! My name is Flor De María Vega Castillo...
+Hi! My name is Flor De María Vega Castillo. I'm a Master in Public Administration student at Montana State University.
+I hold an MSc in Public Relations from Montana State University - Billings, USA, and a BSc in Communication Sciences from Cesar Vallejo University, Peru.
+I ...
