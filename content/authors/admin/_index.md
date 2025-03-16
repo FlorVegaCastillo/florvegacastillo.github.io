@@ -158,17 +158,21 @@ skills:
         icon: circle-stack
   - name: Soft Skills
     items:
-      - name: Python
+      - name: Driven
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Influential
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Culturally Aware
         description: ''
-        percent: 40
+        percent: 100
+        icon: circle-stack
+      - name: Culturally Aware
+        description: ''
+        percent: 100
         icon: circle-stack    
   - name: Hobbies
     color: '#eeac02'
