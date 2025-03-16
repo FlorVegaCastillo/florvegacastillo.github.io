@@ -70,7 +70,6 @@ work:
     company_url: 'https://www.montana.edu/'
     company_logo: ''
     date_start: 2022-08-16
-    date_end: 'Present'
     summary: |2-
       Responsibilities include:
       - Organize and host the Graduate School's signature annual events for prospective and current students.
