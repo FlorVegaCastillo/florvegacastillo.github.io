@@ -180,6 +180,6 @@ awards:
 > *No one is born into this world to be alone.*  
 > <div align="right">— Eiichiro Oda</div>
 
-Hi! My name is Flor De María Vega Castillo. I'm a Master in Public Administration student at Montana State University.
+Hi! My name is Flor Vega Castillo. I'm a Master in Public Administration student at Montana State University.
 I hold an MSc in Public Relations from Montana State University - Billings, USA, and a BSc in Communication Sciences from Cesar Vallejo University, Peru.
-I ...
+With nearly a decade of experience in communications and a solid background in community outreach, content development, relationship and community building and public services popularization, I believe there are always new ways to connect.
