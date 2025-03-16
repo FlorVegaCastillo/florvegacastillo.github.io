@@ -5,8 +5,9 @@ date: 2024-04-24
 authors:
   - admin
 tags:
-  - MSU
   - News
+  - MSU
+  - Interview
 image:
   caption: 'Photography by Colter Peterson'
 featured: true
