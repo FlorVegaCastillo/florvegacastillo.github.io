@@ -33,14 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'florvega526@gmail.com'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/florvega.c
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/flor-vega-castillo/
+  - icon: brands/instagram
+    url: https://www.instagram.com/florvega.c
+
 
 interests:
   - Communications
   - Public Relations
+  - Public Speaking
     
 education:
   - area: Master of Public Administration
@@ -69,7 +71,7 @@ work:
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
+      Responsibilities [include](https://www.montana.edu/):
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -102,6 +104,20 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+  - name: Soft Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack    
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -161,8 +177,8 @@ awards:
 
 ## About Me
 
-> *You might be alone in this moment. But no one is born into this world to be alone.*  
-> <div align="right">— Jaguar D. Saul</div>
+> *No one is born into this world to be alone.*  
+> <div align="right">— Eiichiro Oda</div>
 
 Hi! My name is Flor De María Vega Castillo. I'm a Master in Public Administration student at Montana State University.
 I hold an MSc in Public Relations from Montana State University - Billings, USA, and a BSc in Communication Sciences from Cesar Vallejo University, Peru.
