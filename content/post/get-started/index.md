@@ -12,6 +12,8 @@ authors:
   - admin
   - Ted
 
+featured: true
+
 tags:
   - Academic
   - Hugo Blox
