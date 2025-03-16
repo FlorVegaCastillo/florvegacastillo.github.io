@@ -40,9 +40,10 @@ profiles:
 
 
 interests:
-  - Communications
-  - Public Relations
-  - Public Speaking
+  - Communication Campaign Strategies
+  - Public Relations Building
+  - Public Speaking Techniques
+  - Media Content Development
     
 education:
   - area: Master of Public Administration
@@ -64,29 +65,49 @@ education:
     summary: |
       Summa cum laude
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Graduate Recruitment and Admissions Assistant (MSU Graduate School Department)
+    company_name: Montana State University
+    company_url: 'https://www.montana.edu/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-08-01
+    date_end: 'Present'
     summary: |2-
-      Responsibilities [include](https://www.montana.edu/):
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Responsibilities include:
+      - Organize and host the Graduate School's signature annual events for prospective and current students.
+      - Advance recruitment initiatives and efforts across on-campus and off-campus fairs to increase our community outreach.
+      - Assist in the creation of annual recruitment and outreach plans.
+      - Develop graphic designs for promotional materials, event flyers, posters, postcards, and stickers among others for digital and physical outlets as well as social media videos.
+      - Interview current graduate students for the creation of new student success story entries.
+      - Streamline processes through cross-office training in admission-related tasks and information entry in the office manuals.
+      - Revitalize current email templates for email communication campaigns and create new templates for the same purpose.
+  - position: Master Degree Summer Intern
+    company_name: Family Outreach
+    company_url: 'https://familyoutreach.org/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-05-13
+    date_end: 2024-08-02
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Developed new strategies for community outreach (awareness) and partners/donors (engagement).
+      - Contributed to making messages and language more accessible to all audiences, including Spanish-speaking families.
+      - Facilitated collaboration among nonprofit organizations by finding common ground across their mission statement.
+      - Advanced ways to engage current partners and donors, including creating a monthly newsletter and developing reels for social media and website.
+      - Participated in fundraising planning activities with colleagues in the organization’s different offices across the state.
+  - position: Graduate Writing Assistant (MSUB Academic Support Center)
+    company_name: Montana State University Billings
+    company_url: 'https://www.msubillings.edu/'
+    company_logo: ''
+    date_start: 2021-01-11
+    date_end: 2022-05-07
+    summary: |2-
+      Responsibilities include:
+      - Generated a communications plan, which included monthly expected goals and outcomes.
+      - Facilitated collaborative work and good working relations with on-campus partners.
+      - Represented the Academic Support Center at student resource fairs.
+      - Managed social media accounts and created content.
+      - Executed graphic design pieces for social media and other physical platforms.
+      - Produced and edited institutional videos.
+      - Led blog management and developed news articles
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
