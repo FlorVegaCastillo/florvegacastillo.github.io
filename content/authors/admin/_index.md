@@ -218,7 +218,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+awards and recognitions:
   - title: President’s Award for Gender Equity 
     url: https://www.linkedin.com/feed/update/urn:li:activity:7191833563829280769/
     date: '2024-05-01'
@@ -226,24 +226,20 @@ awards:
     icon: coursera
     summary: |
       The President’s Award for Gender Equity honors members of the MSU community who have worked to improve issues related to gender equity.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+  - title: Student highlight in MSU official magazine 
+    url: https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together
+    date: '2024-04-24'
+    awarder: MSU Mountains and Minds Magazine
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+      The Mountains and Minds magazine highlights students for their academic, professional, and personal achievements.
+  - title: Spirit Outstanding Student Award 
+    url: https://www.linkedin.com/posts/flor-vega-castillo_leadership-montanastate-montanastateuniversity-activity-7061499264090181632-yTyB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U
+    date: '2023-05-05'
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      The award recognizes a student who embodies leadership, citizenship, and involvement on and off campus.
 ---
 
 ## About Me
