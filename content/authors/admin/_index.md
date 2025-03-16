@@ -65,11 +65,11 @@ education:
     summary: |
       Summa cum laude
 work:
-  - position: Graduate Recruitment and Admissions Assistant (MSU Graduate School Department)
+  - position: Graduate Recruitment and Admissions Assistant - MSU Graduate School Department
     company_name: Montana State University
     company_url: 'https://www.montana.edu/'
     company_logo: ''
-    date_start: 2022-08-01
+    date_start: 2022-08-16
     date_end: 'Present'
     summary: |2-
       Responsibilities include:
@@ -84,7 +84,7 @@ work:
     company_name: Family Outreach
     company_url: 'https://familyoutreach.org/'
     company_logo: ''
-    date_start: 2024-05-13
+    date_start: 2024-05-10
     date_end: 2024-08-02
     summary: |
       Responsibilities include:
@@ -93,11 +93,11 @@ work:
       - Facilitated collaboration among nonprofit organizations by finding common ground across their mission statement.
       - Advanced ways to engage current partners and donors, including creating a monthly newsletter and developing reels for social media and website.
       - Participated in fundraising planning activities with colleagues in the organization’s different offices across the state.
-  - position: Graduate Writing Assistant (MSUB Academic Support Center)
+  - position: Graduate Writing Assistant - MSUB Academic Support Center
     company_name: Montana State University Billings
     company_url: 'https://www.msubillings.edu/'
     company_logo: ''
-    date_start: 2021-01-11
+    date_start: 2021-01-10
     date_end: 2022-05-07
     summary: |2-
       Responsibilities include:
@@ -108,6 +108,37 @@ work:
       - Executed graphic design pieces for social media and other physical platforms.
       - Produced and edited institutional videos.
       - Led blog management and developed news articles
+  - position: President and Co-founder - Online nonprofit organization
+    company_name: Cuenta Conmigo
+    company_url: 'https://www.instagram.com/cuentaconmigocomunidad/'
+    company_logo: ''
+    date_start: 2021-03-01
+    date_end: 2023-07-31
+    summary: |2-
+      Responsibilities include:
+      - Formalized institutional cooperation agreements with other nonprofit organizations, schools, and student organizations.
+      - Facilitated the creation of all materials used in the workshops as well as performed as a speaker for such events for Peruvian teenagers aged 14-17.
+      - Promoted all social media and local press activities and served as a spokesperson in interviews.
+  - position: Communications Analyst - Public Relations and Affairs Office
+    company_name: INICTEL-UNI - Telecommunications Research and Training National Institute
+    company_url: 'https://www.gob.pe/inictel-uni'
+    company_logo: ''
+    date_start: 2017-08-07
+    date_end: 2020-10-30
+    summary: |2-
+      Responsibilities include:
+      - Integrated a communications plan and internal policies for the media usage of the Telecommunications Research and Training National Institute (INICTEL-UNI). 
+      - Oversaw the institutional media coverage of the institute’s activities, especially those executed by the research groups.
+      - Trained spokespeople, facilitated key messages before interviews, and attended those with them.
+      - Monitored overall media presence and boosted local media connections.
+      - Traveled to different regions as a media representative for a science popularization project with a main component of education, communication, and technology.
+      - Coordinated the Executive Director’s mobilization, speeches, reports, and similar duties.
+      - Served as an English and Spanish interpreter during international cooperation meetings.
+      - Interpreted at meetings with the Japanese Embassy, Korean university partners, American university and company partners, and Indian Representatives.
+      - Performed emcee roles and tour guide through our institution for college students' visits to the institute.
+      - Elaborated a catalog with key information about all INICTEL-UNI’s research groups and training and development efforts for our Public Relations and Affairs office. The document included researchers' contact information, type of research contract, funding sources, projects’ objectives, projects’ deliverables, and more.
+      - Conducted weekly live-streamed interviews with our institution’s specialists to communicate and promote our advances in science, research, and other trends in those fields.
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
