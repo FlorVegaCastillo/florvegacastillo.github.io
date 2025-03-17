@@ -44,13 +44,10 @@ sections:
     id: statements 
     content:
       title: Statements
-      buttons:
-        - title: Professional Statement
-          url: statements/professional-statement/
-        - title: Equity and Inclusion Statement
-          url: statements/equity-inclusion-statement
-        - title: Public Service Philoshophy
-          url: statements/public-service-philosophy
+      filters:
+        folders:
+          - statements
+        featured_only: true
     design:
       view: article-grid
       columns: 1
