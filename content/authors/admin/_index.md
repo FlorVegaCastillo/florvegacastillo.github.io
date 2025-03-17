@@ -185,11 +185,11 @@ skills:
         description: ''
         percent: 100
         icon: circle-stack 
-        name: Collaborative
+      - name: Collaborative
         description: ''
         percent: 100
         icon: circle-stack
-        name: Reliable
+      - name: Reliable
         description: ''
         percent: 100
         icon: circle-stack    
