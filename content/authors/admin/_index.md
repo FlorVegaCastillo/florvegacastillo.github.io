@@ -146,7 +146,7 @@ skills:
       - name: Project Management
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: custom/bars-progress
       - name: Event Planning
         description: ''
         percent: 100
