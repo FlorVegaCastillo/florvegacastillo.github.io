@@ -1,6 +1,6 @@
 ---
 title: Professional Statement
-summary: ''
+summary: 'Professional Statement'
 date: 2024-04-24
 authors:
   - admin

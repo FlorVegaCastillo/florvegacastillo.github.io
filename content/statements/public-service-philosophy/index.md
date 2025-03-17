@@ -1,6 +1,6 @@
 ---
 title: Public Service Philosophy
-summary: ''
+summary: 'Public Service Philosophy'
 date: 2024-04-24
 authors:
   - admin
