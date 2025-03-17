@@ -38,11 +38,20 @@ sections:
         I work on accessibility and belonging in the public sector, in topics related to education, communications, culture, science, and technology. My fields of interest also include multiculturalism and increased opportunities for under-served and under-represented communities, including first-generation students and multi-language speakers.
         
         Let's connect! 😃
-      button:
-        text: Download CV
-        url: uploads/FlorVega-Castillo2025.pdf
     design:
-      columns: '1'      
+      columns: '1'
+  - block: collection
+    content:
+      buttons:
+        - title: Professional Statement
+          icon: brands/arxiv
+          url: statements/professional-statement
+        - title: Equity and Inclusion Statement
+          icon: brands/youtube
+          url: statements/equity-inclusion-statement
+        - title: Public Service Philoshophy
+          icon: brands/linkedin
+          url: statements/public-service-philosophy
   - block: collection
     id: featured_news
     content:
