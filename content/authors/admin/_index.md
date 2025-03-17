@@ -42,8 +42,8 @@ profiles:
 interests:
   - Communication Campaign Strategies
   - Public Relations Building
-  - Public Speaking Techniques
-  - Media Content Development
+  - Effective Outreach Techniques
+  - Engaging Content Development
     
 education:
   - area: Master of Public Administration
@@ -57,7 +57,7 @@ education:
     date_start: 2021-01-01
     date_end: 2022-07-31
     summary: |
-      GPA: 3.7/4.0
+      GPA: 3.7/4.0. Advisor Dr. Melissa Boehm
   - area: Bachelor in Communication Sciences
     institution: Cesar Vallejo University
     date_start: 2012-03-01
