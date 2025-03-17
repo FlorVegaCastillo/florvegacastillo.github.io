@@ -197,15 +197,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Dancing
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Sighseeing
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Volunteering
         description: ''
         percent: 80
         icon: camera
@@ -251,6 +251,6 @@ awards:
 > *No one is born into this world to be alone.*  
 > <div align="right">— Eiichiro Oda</div>
 
-Hi! My name is Flor Vega Castillo. I'm a Master in Public Administration student at Montana State University.
+Hi! My name is Flor Vega Castillo. I'm a Master in Public Administration student at Montana State University,USA.
 I hold an MSc in Public Relations from Montana State University - Billings, USA, and a BSc in Communication Sciences from Cesar Vallejo University, Peru.
-With nearly a decade of experience in communications and a solid background in community outreach, content development, relationship and community building and public services popularization, I believe there are always new ways to connect.
+With nearly a decade of experience in communications and a solid background in community outreach, content development, relationship and community building and public services popularization, I believe there are always new ways to connect at a deeper and more meaningful level.
