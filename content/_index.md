@@ -45,13 +45,10 @@ sections:
     content:
       buttons:
         - title: Professional Statement
-          icon: brands/arxiv
-          url: statements/professional-statement
+          url: statements/professional-statement/
         - title: Equity and Inclusion Statement
-          icon: brands/youtube
           url: statements/equity-inclusion-statement
         - title: Public Service Philoshophy
-          icon: brands/linkedin
           url: statements/public-service-philosophy
   - block: collection
     id: featured_news

@@ -1,6 +1,6 @@
 ---
 title: Equity and Inclusion Statement
-summary: 
+summary: ''
 date: 2024-04-24
 authors:
   - admin
