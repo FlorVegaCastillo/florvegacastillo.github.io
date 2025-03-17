@@ -38,10 +38,6 @@ sections:
         I work on accessibility and belonging in the public sector, in topics related to education, communications, culture, science, and technology. My fields of interest also include multiculturalism and increased opportunities for under-served and under-represented communities, including first-generation students and multi-language speakers.
         
         Let's connect! 😃
-    design:
-      columns: '1'
-  - block: buttons
-    content:
       buttons:
         - title: Professional Statement
           icon: brands/arxiv
@@ -52,6 +48,8 @@ sections:
         - title: Public Service Philoshophy
           icon: brands/linkedin
           url: statements/public-service-philosophy
+    design:
+      columns: '1'      
   - block: collection
     id: featured_news
     content:
