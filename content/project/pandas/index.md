@@ -1,13 +1,24 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Bringing people together
+summary: I got featured in MSU's Mountains & Minds magazine.
+date: 2024-03-24
+authors:
+  - admin
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Projects
+  - MSU
+  - MPA
+image:
+  caption: 'Photography by Colter Peterson'
+featured: true
+focal_point: "top"
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+I got featured in Montana State University-Bozeman [Mountains & Minds magazine](https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together) (Spring 2024 edition) 💙💛
+When someone reached out to me and told me that the Dean of the Graduate School informed their team about me and my contributions on campus, I was perplexed. Mainly because I thought my engagement and volunteer performances were not being noticed. They didn't have to, in the first place. However, I was so wrong.
 
-<!--more-->
+
+In this interview, conducted by Robert Bole, Writer/Editor at MSU News Services, I talk about my previous leadership roles as a student leader in two different organizations: [First-Generation Students Association at MSU](https://www.instagram.com/msu_firstgenerationstudents/) and [UNA-USA Montana State University Chapter](https://www.instagram.com/unausamontanastate/), and the work I assumed in those. I also mention some of the volunteer opportunities I engaged with at Thrive, WLI, [ProyectoSalud](https://www.instagram.com/proyecto_saludmt), and others. But most importantly, I share the story of how I started to get in love with the English language from a very young age (4 years old), the privilege I had to study it in a private institution (thank you, you know who you are), my career after graduating from college until I met who would change my life.
+
+
+
