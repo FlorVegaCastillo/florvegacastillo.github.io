@@ -1,6 +1,6 @@
 ---
-title: Bringing people together
-summary: I got featured in MSU's Mountains & Minds magazine.
+title: Equity and Inclusion Statement
+summary: 
 date: 2024-04-24
 authors:
   - admin

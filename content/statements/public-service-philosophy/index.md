@@ -1,6 +1,6 @@
 ---
-title: Bringing people together
-summary: I got featured in MSU's Mountains & Minds magazine.
+title: Public Service Philosophy
+summary: 
 date: 2024-04-24
 authors:
   - admin
