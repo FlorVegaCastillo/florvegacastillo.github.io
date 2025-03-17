@@ -43,6 +43,7 @@ sections:
   - block: collection
     id: statements 
     content:
+      title: Statements
       buttons:
         - title: Professional Statement
           url: statements/professional-statement/
@@ -50,6 +51,9 @@ sections:
           url: statements/equity-inclusion-statement
         - title: Public Service Philoshophy
           url: statements/public-service-philosophy
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: featured_news
     content:
