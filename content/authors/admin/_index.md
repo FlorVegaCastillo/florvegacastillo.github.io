@@ -188,6 +188,10 @@ skills:
         name: Collaborative
         description: ''
         percent: 100
+        icon: circle-stack
+        name: Reliable
+        description: ''
+        percent: 100
         icon: circle-stack    
   - name: Hobbies
     color: '#eeac02'
