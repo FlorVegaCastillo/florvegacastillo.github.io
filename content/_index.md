@@ -35,8 +35,7 @@ sections:
       title: '📚 My Portfolio'
       subtitle: ''
       text: |-
-        I work on accessibility and belonging in the public sector, in topics related to education, communications, culture, science, and technology. My fields of interest also include multiculturalism and increased opportunities for under-served and under-represented communities, including first-generation students and multi-language speakers.
-        
+        Welcome! I work on accessibility and belonging in the public sector, focusing on education, communications, culture, science, and technology. My interests also include multiculturalism and expanding opportunities for underserved and underrepresented communities in higher education and society at large.
         Let's connect! 😃
     design:
       columns: '1'
