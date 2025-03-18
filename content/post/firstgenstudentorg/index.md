@@ -27,7 +27,7 @@ My Peruvian flag 🇵🇪 came with me as a way to bring my family, my friends, 
 A special thanks to my dear husband, who has always been my biggest supporter and the one who believed in me since day 1.
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.png" alt="figure" width="60%">
+    <img src="c.jpg" alt="figure" width="60%">
 </div>
 
 
