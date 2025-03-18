@@ -16,7 +16,7 @@ focal_point: "top"
 
 The First-Generation Students Association at MSU obtained the Student Organization of the Year Award during the 100th Annual Day of Student Recognition on May 5, 2023. Being the Founder President of this student group with members from diverse backgrouns represents a big commitment and honor. We serve undergraduate and graduate students.
 
-According to the National Association of Student Personnel Administrators - [NASPA] (https://firstgen.naspa.org/engagement/first-generation-college-celebration/475E37A0-5D4E-11E9-8B3E0239E7C3884C), a first-generation college student is someone whose parents did not complete a 4-year college or university degree.
+According to the National Association of Student Personnel Administrators - [NASPA] (https://firstgen.naspa.org/), a first-generation college student is someone whose parents did not complete a 4-year college or university degree.
 
 FGSA mission statement is to provide a welcoming environment through planned and coordinated activities and programs to offer first-generation students positive and high-impact experiences and support. 
 
@@ -34,5 +34,5 @@ Among other initiatives.
 <div style="display: flex; justify-content: center;">
     <img src="c.jpg" alt="figure" width="60%">
 </div>
-Dr. Barbara Amaral, Club Advisor, and myself as FGSA representative are portrayed in this picture.
+Dr. Barbara do Amaral, Club Advisor, and myself as FGSA representative are portrayed in this picture.
 
