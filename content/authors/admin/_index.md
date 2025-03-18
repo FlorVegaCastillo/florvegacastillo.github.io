@@ -230,6 +230,9 @@ awards:
     icon: coursera
     summary: |
       The President’s Award for Gender Equity honors members of the MSU community who have worked to improve issues related to gender equity.
+    <div style="display: flex; justify-content: center;">
+        <img src="gender-equity-award.jpg" alt="figure" width="60%">
+    </div>  
   - title: Student highlight in MSU official magazine 
     url: https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together
     date: '2024-04-24'
