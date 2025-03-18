@@ -240,7 +240,7 @@ awards:
   - title: Spirit Outstanding Student Award 
     url: https://www.linkedin.com/posts/flor-vega-castillo_leadership-montanastate-montanastateuniversity-activity-7061499264090181632-yTyB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U
     date: '2023-05-05'
-    awarder: datacamp
+    awarder: Diversity and Inclusion Student Commons
     icon: datacamp
     summary: |
       The award recognizes a student who embodies leadership, citizenship, and involvement on and off campus.
