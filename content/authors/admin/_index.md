@@ -146,7 +146,7 @@ skills:
       - name: Project Management
         description: ''
         percent: 100
-        icon: custom/file
+        icon: custom/fileS
       - name: Event Planning
         description: ''
         percent: 100
