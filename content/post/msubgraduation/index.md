@@ -14,14 +14,17 @@ featured: true
 focal_point: "top"
 ---
 
-I got featured in Montana State University-Bozeman [Mountains & Minds magazine](https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together) (Spring 2024 edition) 💙💛
-When someone reached out to me and told me that the Dean of the Graduate School informed their team about me and my contributions on campus, I was perplexed. Mainly because I thought my engagement and volunteer performances were not being noticed. They didn't have to, in the first place. However, I was so wrong.
+After joining in the Master of Science in Public Relation program in Spring 2021, being a full time student taking classes over the summer, I walked in the [Montana State University Billings](https://www.msubillings.edu/) Spring Commencement ceremony on May, 7.
+I am thankful to have learned about a wide variety of topics such as organizational communications, issues in public relations, leadership, campaign planning, research methods and case studies.
+I hold a Writing Graduate Assistant position at the [Academic Support Center](https://www.msubillings.edu/asc/), where I put into practice the acquired knowledge in content development and social media management. Making a "from the classroom to the real world" experience thanks to my supervisor and other colleagues who welcomed my ideas and encouraged me to explore my creativity levels.
+My hard commitment to my studies also paid off after obtaining the MSUB Yellowstone Scholarship for three consecutive semesters (Spring 2021, Fall 2021, and Spring 2022). I was also involved with the MSUB Multicultural club, sharing experiences and connecting with other international students.
 
 <div style="display: flex; justify-content: center;">
     <img src="4.jpg" alt="figure" width="60%">
 </div>
 
-In this interview, conducted by Robert Bole, Writer/Editor at MSU News Services, I talk about my previous leadership roles as a student leader in two different organizations: [First-Generation Students Association at MSU](https://www.instagram.com/msu_firstgenerationstudents/) and [UNA-USA Montana State University Chapter](https://www.instagram.com/unausamontanastate/), and the work I assumed in those. I also mention some of the volunteer opportunities I engaged with at Thrive, WLI, [ProyectoSalud](https://www.instagram.com/proyecto_saludmt), and others. But most importantly, I share the story of how I started to get in love with the English language from a very young age (4 years old), the privilege I had to study it in a private institution (thank you, you know who you are), my career after graduating from college until I met who would change my life.
+My Peruvian flag 🇵🇪 came with me as a way to bring my family, my friends, and my country. I felt the need to take it because it reminds me why I am doing the things I do now. I am physically far from my people, but mentally with them and those who are for coming in the future.
+A special thanks to my dear husband, who has always been my biggest supporter and the one who believed in me since day 1.
 
 <div style="display: flex; justify-content: center;">
     <img src="b.png" alt="figure" width="60%">
