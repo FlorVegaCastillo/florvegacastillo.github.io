@@ -20,7 +20,7 @@ I hold a Writing Graduate Assistant position at the [Academic Support Center](ht
 My hard commitment to my studies also paid off after obtaining the MSUB Yellowstone Scholarship for three consecutive semesters (Spring 2021, Fall 2021, and Spring 2022). I was also involved with the MSUB Multicultural club, sharing experiences and connecting with other international students.
 
 <div style="display: flex; justify-content: center;">
-    <img src="b.jpg" alt="figure" width="60%">
+    <img src="d.jpg" alt="figure" width="60%">
 </div>
 
 My Peruvian flag 🇵🇪 came with me as a way to bring my family, my friends, and my country. I felt the need to take it because it reminds me why I am doing the things I do now. I am physically far from my people, but mentally with them and those who are for coming in the future.
