@@ -172,7 +172,7 @@ skills:
       - name: Driven
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: custom/paper-plane-rectangular
       - name: Influential
         description: ''
         percent: 100
