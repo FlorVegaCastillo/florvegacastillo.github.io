@@ -7,7 +7,7 @@ authors:
 tags:
   - News
   - MSU
-  - Awards
+  - Conference
 image:
   caption: 'Photography by Siddat Nesar
 featured: true
