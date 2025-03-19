@@ -14,9 +14,9 @@ featured: true
 focal_point: "top"
 ---
 
-All of us are working towards a purpose bigger than what we think. I had the honor of attending the UNA-USA 2023 Global Engagement Summit, place where the "We the people" statement resonates more than ever. As Vice President of the United Nations Association of the United States of America [(UNA-USA) Bozeman chapter](https://www.instagram.com/unausamontanastate/), I proudly represented MSU at such an important evvent. Our chapter is the only chapter in the state of Montana.
+All of us are working towards a purpose bigger than what we think. I had the honor of attending the UNA-USA 2023 Global Engagement Summit, place where the "We the people" statement resonates more than ever. As Vice President of the United Nations Association of the United States of America [(UNA-USA) Bozeman chapter](https://www.instagram.com/unausamontanastate/), I proudly represented MSU at such an important event. Our chapter is the only chapter in the state of Montana.
 
-The United Nations General Assembly Hall located in New York received us to address topics related to the Sustainable Development Goals, our road map, and what has been and needs to be done for the next generations. This [GES summit's](https://events.unfoundation.org/2023globalengagementsummit1) edition theme was "Empowered and Emboldened for Impact.
+The United Nations General Assembly Hall located in New York received us to address topics related to the Sustainable Development Goals, our road map, and what has been accomplished and needs to be done for the next generations. This [GES summit's](https://events.unfoundation.org/2023globalengagementsummit1) edition theme was "Empowered and Emboldened for Impact."
  
 
 <div style="display: flex; justify-content: center;">
@@ -33,7 +33,7 @@ Encouraging young leaders to pursue change through positive impact, the UNA advo
 <div style="display: flex; justify-content: center;">
     <img src="c.jpg" alt="figure" width="60%">
 </div>
-The Sustainable Development Goals (SDGs) I have a stronger commitment to are SDG #4 Quality Education and SDG #5 Gender Equality.
+The Sustainable Development Goals (SDGs) I have a stronger commitment to are #4 Quality Education and #5 Gender Equality. Let's keep working towards a more collaborative global connections!
 
 <div style="display: flex; justify-content: center;">
     <img src="d.jpg" alt="figure" width="60%">
