@@ -9,7 +9,7 @@ tags:
   - MSU
   - Conference
 image:
-  caption: 'Photography by Siddat Nesar
+  caption: 'Photography by Siddat Nesar'
 featured: true
 focal_point: "top"
 ---
