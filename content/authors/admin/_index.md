@@ -172,7 +172,7 @@ skills:
       - name: Driven
         description: ''
         percent: 100
-        icon: custom/paper
+        icon: paper-plane-solid
       - name: Influential
         description: ''
         percent: 100
