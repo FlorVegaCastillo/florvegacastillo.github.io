@@ -180,7 +180,7 @@ skills:
       - name: Culturally Aware
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: heart-solid
       - name: Pragmatic
         description: ''
         percent: 100
