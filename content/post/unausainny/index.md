@@ -1,6 +1,6 @@
 ---
 title: UNA-USA Bozeman chapter attended the Global Engagement Summit in the United Nations Headquarters
-summary: MSU celebrated its 100th annual Day of Student Recognition, where the university awarded students and groups in five categories.
+summary: A delegation of UNA-USA Bozeman chapter student officers attended this event in New York.
 date: 2023-02-17
 authors:
   - admin
