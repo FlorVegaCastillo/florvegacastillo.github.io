@@ -1,13 +1,13 @@
 ---
-title: Bringing people together
-summary: I got featured in MSU's Mountains & Minds magazine.
-date: 2024-03-24
+title: Cuenta Conmigo (Count on Me) created to help Peruvian teenagers navigate higher education
+summary: Three Peruvian professionals co-founded this online initiave that combines self-esteem, active opportunity research, and ethics in 8-week online workshops.
+date: 2021-01-17
 authors:
   - admin
 tags:
   - Projects
-  - MSU
-  - MPA
+  - Peru
+  - Education
 image:
   caption: 'Photography by Colter Peterson'
 featured: true
