@@ -1,7 +1,7 @@
 ---
-title: First-Generation Students Association obtained the Student Organization of the Year Award
+title: UNA-USA Bozeman chapter attended the Global Engagement Summit in the United Nations Headquarters
 summary: MSU celebrated its 100th annual Day of Student Recognition, where the university awarded students and groups in five categories.
-date: 2023-05-05
+date: 2023-02-17
 authors:
   - admin
 tags:
