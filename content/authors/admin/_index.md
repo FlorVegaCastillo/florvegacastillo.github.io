@@ -146,7 +146,7 @@ skills:
       - name: Project Management
         description: ''
         percent: 100
-        icon: custom/fileS
+        icon: invoice-solid
       - name: Event Planning
         description: ''
         percent: 100
@@ -172,7 +172,7 @@ skills:
       - name: Driven
         description: ''
         percent: 100
-        icon: paper-plane-solid
+        icon: plane-solid
       - name: Influential
         description: ''
         percent: 100
