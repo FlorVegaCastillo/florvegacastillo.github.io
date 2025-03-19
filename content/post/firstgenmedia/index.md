@@ -30,7 +30,7 @@ Our attendees had a great opportunity to make connections, get to know the resou
  here](https://www.msuexponent.com/news/first-gen-students-association-plans-mental-health-nutrition-and-professional-development-workshops/article_71719118-c9a1-11ed-90d4-1f30634206d1.html)
 
 <div style="display: flex; justify-content: center;">
-    <img src="ajpg" alt="figure" width="60%">
+    <img src="a.jpg" alt="figure" width="60%">
 </div>
 
 
