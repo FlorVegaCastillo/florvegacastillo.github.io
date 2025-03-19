@@ -33,7 +33,7 @@ Encouraging young leaders to pursue change through positive impact, the UNA advo
 <div style="display: flex; justify-content: center;">
     <img src="c.jpg" alt="figure" width="60%">
 </div>
-The Sustainable Development Goals (SDGs) I have a stronger commitment to are #4 Quality Education and #5 Gender Equality. Let's keep working towards a more collaborative global connections!
+The Sustainable Development Goals (SDGs) I have a stronger commitment to are #4 Quality Education and #5 Gender Equality. Let's keep working towards more collaborative global connections!
 
 <div style="display: flex; justify-content: center;">
     <img src="d.jpg" alt="figure" width="60%">
