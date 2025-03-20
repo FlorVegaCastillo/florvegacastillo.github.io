@@ -188,7 +188,7 @@ skills:
       - name: Collaborative
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: custom/handshake-solid
       - name: Reliable
         description: ''
         percent: 100
