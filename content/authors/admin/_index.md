@@ -150,7 +150,7 @@ skills:
       - name: Event Planning
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: custom/fileS
       - name: Stakeholder Engagement
         description: ''
         percent: 100
@@ -172,7 +172,7 @@ skills:
       - name: Driven
         description: ''
         percent: 100
-        icon: plane-solid
+        icon: custom/plane-solid
       - name: Influential
         description: ''
         percent: 100
