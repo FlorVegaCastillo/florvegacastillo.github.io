@@ -158,7 +158,7 @@ skills:
       - name: Media Relations
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: custom/bullhorn-solid
       - name: Multiplatform Content Creation
         description: ''
         percent: 100
