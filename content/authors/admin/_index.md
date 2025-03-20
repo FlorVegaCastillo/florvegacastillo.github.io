@@ -146,7 +146,7 @@ skills:
       - name: Project Management
         description: ''
         percent: 100
-        icon: file-invoice
+        icon: fa-file-invoice
       - name: Event Planning
         description: ''
         percent: 100
