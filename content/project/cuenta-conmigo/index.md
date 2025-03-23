@@ -33,4 +33,16 @@ We ended up having three online workshops, serving 65 high school students from 
 Even though we had to stop our activities after one year and a half, we keep all the information posted online so that it could serve as a source for those still in the process of deciding what to study for their undergraduate degree. After all, what we did was part of our slogan *Buscando oportunidades para un mejor futuro* "Searching opportunities for a better future." 
 
 
+<div style="display: flex; justify-content: center;">
+    <img src="a.jpg" alt="figure" width="60%">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="b.jpg" alt="figure" width="60%">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="c.jpg" alt="figure" width="60%">
+</div>
+
 
