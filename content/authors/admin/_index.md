@@ -244,6 +244,15 @@ awards:
     icon: MSU
     summary: |
       The award recognizes a student who embodies leadership, citizenship, and involvement on and off campus.
+
+  - title: Student Organization of the Year Award 
+    url: https://www.instagram.com/p/CsB4N3qr_J8/?img_index=1
+    date: '2023-05-05'
+    awarder: Office of Student Engagement
+    icon: MSU
+    summary: |
+      The award recognizes the student organization with most engagement.
+
 ---
 
 ## About Me
