@@ -7,25 +7,27 @@ authors:
 tags:
   - Statement
 image:
-  caption: 'Photography by Colter Peterson'
+  caption: 'Photography by Giorgio Morales'
 featured: true
 focal_point: "top"
 ---
 
-I got featured in Montana State University-Bozeman [Mountains & Minds magazine](https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together) (Spring 2024 edition) 💙💛
-When someone reached out to me and told me that the Dean of the Graduate School informed their team about me and my contributions on campus, I was perplexed. Mainly because I thought my engagement and volunteer performances were not being noticed. They didn't have to, in the first place. However, I was so wrong.
+When I look back and see me as a 13-year-old teenager searching for 10-cent coins on the sidewalks on my way back home from school, I reflect on the role education has played in my life. Now, I am a driven communications professional with almost 10 years of experience in the public and private sector in Peru and the United States. I combined a mix of an unconditional commitment to my undergraduate studies to obtain scholarships, and additional coursework as continuing education to get better job opportunities. Learning a second language and go through English proficiency tests. Overall ongoing hard work, and long shifts at initial jobs and other types of investments towards my future knowing that things would eventually get better. 
+
+As a result, I have relevant experience working in recognized organizations in the public sector, including a public institution in telecommunications research and higher education recruitment and admissions as well as academic support center, as well as in the private sector. Due to my time management skills acquired at a young age, I developed a strong capacity to manage different assigned duties and projects and deliver effective results satisfying set deadlines. All while continuously training myself with additional courses when I was in Peru and being involved in leadership positions while studying my two master’s degree in the United States. They also helped me to be aware of different groups’ needs to best serve them and their capacity to achieve their best self. 
+
+At each of my current and past workplaces, I have strived to create and maintain solid professional relationships based on mutual respect, collaboration, and mentorship when applicable. I believe in everyone’s potential to offer valuable insights, especially those in the early stages of their career. I can proudly say that I meet my team’s expectations while having a great attitude and I’ll be happy to tell you more about it in a phone call or video call. 
+
 
 <div style="display: flex; justify-content: center;">
-    <img src="magazine.jpg" alt="figure" width="60%">
+    <img src="a.jpg" alt="figure" width="60%">
 </div>
 
-In this interview, conducted by Robert Bole, Writer/Editor at MSU News Services, I talk about my previous leadership roles as a student leader in two different organizations: [First-Generation Students Association at MSU](https://www.instagram.com/msu_firstgenerationstudents/) and [UNA-USA Montana State University Chapter](https://www.instagram.com/unausamontanastate/), and the work I assumed in those. I also mention some of the volunteer opportunities I engaged with at Thrive, WLI, [ProyectoSalud](https://www.instagram.com/proyecto_saludmt), and others. But most importantly, I share the story of how I started to get in love with the English language from a very young age (4 years old), the privilege I had to study it in a private institution (thank you, you know who you are), my career after graduating from college until I met who would change my life.
-
 <div style="display: flex; justify-content: center;">
-    <img src="magazine2.jpg" alt="figure" width="60%">
+    <img src="b.jpg" alt="figure" width="60%">
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="magazine3.jpg" alt="figure" width="60%">
+    <img src="c.jpg" alt="figure" width="60%">
 </div>
 
