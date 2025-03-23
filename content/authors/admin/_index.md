@@ -277,7 +277,7 @@ awards:
     summary: |
       The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
 
-  - title: MSU Billings' Academic Support Center Employee of the Semester
+  - title: Employee of the Semester at the Academic Support Center
     url: https://www.linkedin.com/posts/flor-vega-castillo_doing-things-well-at-your-job-gives-you-a-activity-6791150462058991616-PnRW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U
     date: '2021-04-23'
     awarder: Academic Support Center at MSU Billings
