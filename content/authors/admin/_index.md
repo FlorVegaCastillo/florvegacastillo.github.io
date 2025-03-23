@@ -251,7 +251,7 @@ awards:
     awarder: Office of Student Engagement
     icon: MSU
     summary: |
-      The award recognizes the student organization with most engagement.
+      The award recognizes the student organization that displays outstanding contributions to the MSU community, student members and fosters leadership within their organization.
 
 ---
 
