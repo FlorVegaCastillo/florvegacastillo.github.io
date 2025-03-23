@@ -253,6 +253,29 @@ awards:
     summary: |
       The award recognizes the student organization that displays outstanding contributions to the MSU community, student members and fosters leadership within their organization.
 
+  - title: MSU Billings' Yellowstone Award (Spring 2022)
+    url: https://www.linkedin.com/in/flor-vega-castillo/details/honors/
+    date: '2022-01-22'
+    awarder: Office of Student Engagement
+    icon: MSU
+    summary: |
+      The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
+
+  - title: MSU Billings' Yellowstone Award (Fall 2021)
+    url: https://www.linkedin.com/in/flor-vega-castillo/details/honors/
+    date: '2021-08-22'
+    awarder: Office of Student Engagement
+    icon: MSU
+    summary: |
+      The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
+
+  - title: MSU Billings' Yellowstone Award (Spring 2021)
+    url: https://www.linkedin.com/in/flor-vega-castillo/details/honors/
+    date: '2021-01-22'
+    awarder: Office of Student Engagement
+    icon: MSU
+    summary: |
+      The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
 ---
 
 ## About Me
