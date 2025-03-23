@@ -7,7 +7,7 @@ authors:
 tags:
   - Statement
 image:
-  caption: 'Photography by Colter Peterson'
+  caption: 'Autosubmitted picture'
 featured: true
 focal_point: "top"
 ---
@@ -19,7 +19,9 @@ My calling for serving the public started in my early career as a TV reporter, w
 Then, I have kept in mind that it’s not a matter of being resilient in order to help people, but to help people to be resilient. That’s my commitment to the public sector, whether it’s at the university level or a public service in general because “no one came into this world to be alone” - Eiichiro Oda. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="magazine.jpg" alt="figure" width="60%">
+    <img src="a.jpg" alt="figure" width="60%">
 </div>
 
-
+<div style="display: flex; justify-content: center;">
+    <img src="b.jpg" alt="figure" width="60%">
+</div>
