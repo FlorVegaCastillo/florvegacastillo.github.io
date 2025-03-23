@@ -227,7 +227,7 @@ awards:
     url: https://www.linkedin.com/feed/update/urn:li:activity:7191833563829280769/
     date: '2024-05-01'
     awarder: MSU Office of the President
-    icon: MSU.png
+    icon: MSU
     summary: |
       The President’s Award for Gender Equity honors members of the MSU community who have worked to improve issues related to gender equity.
   - title: Student highlight in MSU official magazine 
