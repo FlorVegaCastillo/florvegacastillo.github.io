@@ -12,7 +12,7 @@ authors:
   - admin
   - Ted
 
-featured: true
+featured: 
 
 tags:
   - Academic
