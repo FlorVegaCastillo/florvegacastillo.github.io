@@ -7,25 +7,33 @@ authors:
 tags:
   - Statement
 image:
-  caption: 'Photography by Colter Peterson'
+  caption: 'Photography by Riad Rezaul'
 featured: true
 focal_point: "top"
 ---
 
-I got featured in Montana State University-Bozeman [Mountains & Minds magazine](https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together) (Spring 2024 edition) 💙💛
-When someone reached out to me and told me that the Dean of the Graduate School informed their team about me and my contributions on campus, I was perplexed. Mainly because I thought my engagement and volunteer performances were not being noticed. They didn't have to, in the first place. However, I was so wrong.
+I grew up in Lima, Peru’s capital. Lima is characterized by its almost omnipresent gray sky. Lima “The Gray,” was built in a desert, but, surprisingly, it is not a one or two-color city. Lima is where people from all regions migrated searching for a brighter future. So you will see women wearing their colorful “polleras” (woven skirts made in their hometowns), men covered in songs that help them go through the day, or kids clothed in traditional costumes for dancing at school.  
+
+My grandparents, the four of them, come from different Peruvian veins: from the northern part of Lima, from the highlands, from the south and from a town near the rainforest area. I am a mixture of ethnicities within a small country, yet one of the most diverse republics.  
+
+Coming to the United States only expanded my views on the beauty that sometimes hides across our differences. The depth in the connections we choose to create. At MSU, I have been fortunate to lead two student organizations that contributed to increasing the personal, academic and professional opportunities for undergraduate and graduate students.  
+
+At the First-Generation Students Association, most of the members were women in STEM majors and at the UNA-USA, most of the members were international students. Now, I am part of the leadership team at Footloose Fusion, a student organization created to come together and learn dances from our members’ countries. Our members volunteer to teach as a glimpse of a traditional dance they hold dear to as part of their identities and the rest take each step learned humbly and respectfully. We all dance thinking about how priceless it is to have a space to elevate our roots and share a piece of home with the rest of the world. 
+
+My commitment is to always welcome and celebrate diversity and foster inclusion and equity. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="magazine.jpg" alt="figure" width="60%">
-</div>
-
-In this interview, conducted by Robert Bole, Writer/Editor at MSU News Services, I talk about my previous leadership roles as a student leader in two different organizations: [First-Generation Students Association at MSU](https://www.instagram.com/msu_firstgenerationstudents/) and [UNA-USA Montana State University Chapter](https://www.instagram.com/unausamontanastate/), and the work I assumed in those. I also mention some of the volunteer opportunities I engaged with at Thrive, WLI, [ProyectoSalud](https://www.instagram.com/proyecto_saludmt), and others. But most importantly, I share the story of how I started to get in love with the English language from a very young age (4 years old), the privilege I had to study it in a private institution (thank you, you know who you are), my career after graduating from college until I met who would change my life.
-
-<div style="display: flex; justify-content: center;">
-    <img src="magazine2.jpg" alt="figure" width="60%">
+    <img src="a.jpg" alt="figure" width="60%">
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="magazine3.jpg" alt="figure" width="60%">
+    <img src="b.jpg" alt="figure" width="60%">
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <img src="c.jpg" alt="figure" width="60%">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="d.jpg" alt="figure" width="60%">
+</div>
