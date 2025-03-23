@@ -7,7 +7,7 @@ authors:
 tags:
   - Statement
 image:
-  caption: 'Autosubmitted picture'
+  caption: 'Photography by Melissa Ramirez'
 featured: true
 focal_point: "top"
 ---
