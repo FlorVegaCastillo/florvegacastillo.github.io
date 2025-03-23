@@ -35,4 +35,7 @@ In general, we ended up with an incredible feeling of satisfaction. We had atten
     <img src="c.jpg" alt="figure" width="60%">
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <img src="d.jpg" alt="figure" width="60%">
+</div>
 
