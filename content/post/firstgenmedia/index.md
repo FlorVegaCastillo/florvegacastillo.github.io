@@ -10,7 +10,7 @@ tags:
   - Student Organization
 image:
   caption: 'Recovered from The Exponent website'
-featured: true
+featured: false
 focal_point: "top"
 ---
 
