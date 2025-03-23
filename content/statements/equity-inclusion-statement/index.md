@@ -20,7 +20,7 @@ Coming to the United States only expanded my views on **the beauty that sometime
 
 At the First-Generation Students Association, most of the members were women in STEM majors and at the UNA-USA, most of the members were international students. Now, I am part of the leadership team at Footloose Fusion, a student organization created to come together and learn dances from our members’ countries. Our members volunteer to teach as a glimpse of a traditional dance they hold dear to as part of their identities and the rest take each step learned humbly and respectfully. We all dance thinking about how priceless it is to have a space to elevate our roots and share a piece of home with the rest of the world. 
 
-My commitment is to always welcome and celebrate diversity and foster inclusion and equity. As I read somewhere else, **diversity is a fact, inclusion is an act, and equity the goal.**
+My commitment is to always welcome and celebrate diversity and foster inclusion and equity. As I read somewhere else, **diversity is a fact, inclusion is an act, and equity is the goal.**
 
 
 <div style="display: flex; justify-content: center;">
