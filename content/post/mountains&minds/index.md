@@ -25,7 +25,7 @@ In this interview, conducted by Robert Bole, Writer/Editor at MSU News Services,
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="magazine2.jpg" alt="figure" width="60%">
+    <img src="magazine2.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption>Leading a breakout discussion group during a language and story exchange event held last November in MSU’s American Indian Hall.</figcaption>
   </figure>
 </div>
