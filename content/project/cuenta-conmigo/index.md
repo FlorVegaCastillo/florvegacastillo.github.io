@@ -28,7 +28,9 @@ We offered:
 - An eight-session online workshop where we would present slides with rich information, break-out sessions, Q&As, and a Google classroom for the submission of their assingments.
 - We did not tell students what/where to study, or conducted a vocational test because we believed in their capacity to make a decision by the end of the workshop.
 
-We ended up having three online workshops, serving 65 high school students from different regions. Our recruitment process was open to all students within those ages, and we were flexible in the assingment submissions (typed, scanned, printed or handwritten). We shared the stories of professionals in three different formats: edited testimonal videos, written interviews as posts, and live interviews. There were in total 17 allies from Peru and then I included the testimonial of two American students with subtitles in Spanish.
+We ended up having three online workshops, serving 65 high school students from different regions. Our recruitment process was open to all students within those ages, and we were flexible in the assingment submissions (typed, scanned, printed or handwritten). We shared the stories of professionals in three different formats: edited testimonal videos, written interviews as posts, and live interviews. There were in total 17 allies from Peru and then I included the testimonial of two American students with subtitles in Spanish. We also obtained media coverage and participated in three interviews for the local news.
+
+Even though we had to stop our activities after one year and a half, we keep all the information posted online so that it could serve as a source for those still in the process of deciding what to study for their undergraduate degree. After all, what we did was part of our slogan *Buscando oportunidades para un mejor futuro* "Searching opportunities for a better future." 
 
 
 
