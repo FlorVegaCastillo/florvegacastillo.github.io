@@ -234,14 +234,14 @@ awards:
     url: https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together
     date: '2024-04-24'
     awarder: MSU Mountains and Minds Magazine
-    icon: 
+    icon: MSU
     summary: |
       The Mountains and Minds magazine highlights students for their academic, professional, and personal achievements.
   - title: Spirit Outstanding Student Award 
     url: https://www.linkedin.com/posts/flor-vega-castillo_leadership-montanastate-montanastateuniversity-activity-7061499264090181632-yTyB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U
     date: '2023-05-05'
     awarder: Diversity and Inclusion Student Commons
-    icon: 
+    icon: MSU
     summary: |
       The award recognizes a student who embodies leadership, citizenship, and involvement on and off campus.
 ---
