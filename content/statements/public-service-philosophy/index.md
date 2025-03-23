@@ -12,20 +12,14 @@ featured: true
 focal_point: "top"
 ---
 
-I got featured in Montana State University-Bozeman [Mountains & Minds magazine](https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together) (Spring 2024 edition) 💙💛
-When someone reached out to me and told me that the Dean of the Graduate School informed their team about me and my contributions on campus, I was perplexed. Mainly because I thought my engagement and volunteer performances were not being noticed. They didn't have to, in the first place. However, I was so wrong.
+At age 16, right before graduating from high school, I found out what my life mission would be. Before making that life-changing decision, I weighed the possibilities through three different potential careers: sociologist, lawyer, journalist. Until I finally decided that it could be a mix of different things to approach me to my true vocation: help people to maximize their voices. “Communications Sciences it is.” 
+
+My calling for serving the public started in my early career as a TV reporter, where I would visit the most underserved communities to echo their voices, making sure they’d get the local government and private donors’ attention. I would cover those cases were constituents, individuals or organized groups asked for help. Then, after joining the Public Relations and Affairs Office at the Telecommunications Research National Institute, I would disseminate those research projects’ results to the final users and overall community. My job was to summarize and interpret the scientific language to a clearer product available for all education-level citizens.  
+
+Then, I have kept in mind that it’s not a matter of being resilient in order to help people, but to help people to be resilient. That’s my commitment to the public sector, whether it’s at the university level or a public service in general because “no one came into this world to be alone” - Eiichiro Oda. 
 
 <div style="display: flex; justify-content: center;">
     <img src="magazine.jpg" alt="figure" width="60%">
 </div>
 
-In this interview, conducted by Robert Bole, Writer/Editor at MSU News Services, I talk about my previous leadership roles as a student leader in two different organizations: [First-Generation Students Association at MSU](https://www.instagram.com/msu_firstgenerationstudents/) and [UNA-USA Montana State University Chapter](https://www.instagram.com/unausamontanastate/), and the work I assumed in those. I also mention some of the volunteer opportunities I engaged with at Thrive, WLI, [ProyectoSalud](https://www.instagram.com/proyecto_saludmt), and others. But most importantly, I share the story of how I started to get in love with the English language from a very young age (4 years old), the privilege I had to study it in a private institution (thank you, you know who you are), my career after graduating from college until I met who would change my life.
-
-<div style="display: flex; justify-content: center;">
-    <img src="magazine2.jpg" alt="figure" width="60%">
-</div>
-
-<div style="display: flex; justify-content: center;">
-    <img src="magazine3.jpg" alt="figure" width="60%">
-</div>
 
