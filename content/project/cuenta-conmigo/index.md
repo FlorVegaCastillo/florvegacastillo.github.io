@@ -9,16 +9,12 @@ tags:
   - Peru
   - Education
 image:
-  caption: 'Photography by Colter Peterson'
+  caption: 'Photography by Luis Camasca'
 featured: true
 focal_point: "top"
 ---
 
-I got featured in Montana State University-Bozeman [Mountains & Minds magazine](https://www.montana.edu/news/mountainsandminds/23709/bringing-people-together) (Spring 2024 edition) 💙💛
-When someone reached out to me and told me that the Dean of the Graduate School informed their team about me and my contributions on campus, I was perplexed. Mainly because I thought my engagement and volunteer performances were not being noticed. They didn't have to, in the first place. However, I was so wrong.
+*Cuenta Conmigo* (Count on Me) started from a personal experience I had in 2020. My two younger cousins, one aged 16 and the other 15, had multiple questions and doubts about what major choose. They were in that stage in high school when the pressure to select the career that will define your future starts. The uncertainty was multiplied by the fear and discomfort the Covid pandemic brought. We met online regularly and I helped them navigate the basics so that they could make a more informed decision. They both got into college majors they were truly interested in conducting. 
 
-
-In this interview, conducted by Robert Bole, Writer/Editor at MSU News Services, I talk about my previous leadership roles as a student leader in two different organizations: [First-Generation Students Association at MSU](https://www.instagram.com/msu_firstgenerationstudents/) and [UNA-USA Montana State University Chapter](https://www.instagram.com/unausamontanastate/), and the work I assumed in those. I also mention some of the volunteer opportunities I engaged with at Thrive, WLI, [ProyectoSalud](https://www.instagram.com/proyecto_saludmt), and others. But most importantly, I share the story of how I started to get in love with the English language from a very young age (4 years old), the privilege I had to study it in a private institution (thank you, you know who you are), my career after graduating from college until I met who would change my life.
-
-
+However, after starting my master's in public relations program in the U.S., I kept following the News in Peru. The high school students were highly affected because not all the communities (rural and urban) across the country were prepared to attend online classes because of the lack of equipment or overall guidance. Their parents would search for alternatives to substain their health and food needs, but they were mostly left alone. In that scenario, where the present is so uncertain and sad, how could they "dare to" think about their future? 
 
