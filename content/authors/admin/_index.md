@@ -261,6 +261,14 @@ awards:
     summary: |
       The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
 
+  - title: Sigma Tau Delta Poetry Contest 2nd Place and Honorable Mention
+    url: https://www.linkedin.com/posts/flor-vega-castillo_poetry-poetrycontest-msub-activity-6923730095287275520-1Wo5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U
+    date: '2022-04-22'
+    awarder: Sigma Tau Delta (International honor society) MSU Billings chapter
+    icon: MSU
+    summary: |
+      The committee members (MSUB poets and instructors) looked for substantive content, precise language, demonstrated knowledge of poetic techniques, and more.
+
   - title: MSU Billings' Yellowstone Award (Fall 2021)
     url: https://www.linkedin.com/in/flor-vega-castillo/details/honors/
     date: '2021-08-22'
