@@ -257,7 +257,7 @@ awards:
     url: https://www.linkedin.com/in/flor-vega-castillo/details/honors/
     date: '2022-01-22'
     awarder: Office of Student Engagement
-    icon: MSU
+    icon: MSUB
     summary: |
       The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
 
@@ -265,7 +265,7 @@ awards:
     url: https://www.linkedin.com/posts/flor-vega-castillo_poetry-poetrycontest-msub-activity-6923730095287275520-1Wo5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U
     date: '2022-04-22'
     awarder: Sigma Tau Delta (International honor society) MSU Billings chapter
-    icon: MSU
+    icon: MSUB
     summary: |
       The committee members (MSUB poets and instructors) looked for substantive content, precise language, demonstrated knowledge of poetic techniques, and more.
 
@@ -273,7 +273,7 @@ awards:
     url: https://www.linkedin.com/in/flor-vega-castillo/details/honors/
     date: '2021-08-22'
     awarder: Office of Student Engagement
-    icon: MSU
+    icon: MSUB
     summary: |
       The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
 
@@ -281,7 +281,7 @@ awards:
     url: https://www.linkedin.com/posts/flor-vega-castillo_doing-things-well-at-your-job-gives-you-a-activity-6791150462058991616-PnRW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACEWEmoBundwTOToZfOayLUN1oOSbOZHb5U
     date: '2021-04-23'
     awarder: Academic Support Center at MSU Billings
-    icon: MSU
+    icon: MSUB
     summary: |
       The ASC provides a welcoming and dynamic academic environment while empowering students to attain their educational goals. I got this recognition in my role as a Graduate Assistant.
 
@@ -289,7 +289,7 @@ awards:
     url: https://www.linkedin.com/in/flor-vega-castillo/details/honors/
     date: '2021-01-22'
     awarder: Office of Student Engagement
-    icon: MSU
+    icon: MSUB
     summary: |
       The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
 ---
