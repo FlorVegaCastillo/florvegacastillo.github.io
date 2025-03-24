@@ -1,19 +1,14 @@
 ---
-title: Example Talk
+title: MSU Multicultural Graduation Celebration 2024
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Multicultural Graduation Celebration
+event_url: https://www.montana.edu/calendar/events/46589
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+location: Procrastinator Theater and Leigh Lounge
+address: MSU campus
+ 
+summary: For second consecutive year, I got invited to be one of the emcees at this event where we celebrate the multicultural heritages and backgrounds of MSU's graduees. 
+abstract: The DISC Multicultural Graduation Celebration celebrated "the distinct cultural heritages and contributions of students with diverse identities to the campus community. The graduating students were presented with kente cloth, serape, or other stole representing their cultural background.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
