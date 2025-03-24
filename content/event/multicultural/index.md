@@ -5,7 +5,12 @@ event: Multicultural Graduation Celebration
 event_url: https://www.montana.edu/calendar/events/46589
 
 location: Procrastinator Theater and Leigh Lounge
-address: MSU campus
+address:
+  street: MSU campus
+  city: 
+  region: MT
+  postcode: 
+  country: United States
 
 summary: For second consecutive year, I got invited to be one of the emcees at this event where we celebrate the multicultural heritages and backgrounds of MSU's graduees. 
 abstract: 'The DISC Multicultural Graduation Celebration celebrated "the distinct cultural heritages and contributions of students with diverse identities to the campus community." The graduating students were presented with kente cloth, serape, or other stole representing their cultural background.'
@@ -36,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+# url_code: 'https://github.com'
+# url_pdf: ''
+# url_slides: 'https://slideshare.net'
+# url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
