@@ -292,6 +292,13 @@ awards:
     icon: MSUB
     summary: |
       The Office of International Studies Yellowstone Scholarship is given to MSUB international students who have outstanding academic performance and relevant contributions to the MSUB community.
+
+  - title: Summa Cum Laude: Bachelor in Communication Sciences (2016)
+    date: '2016-12-31'
+    awarder: Universidad César Vallejo
+    icon: UCV
+    summary: |
+      *Summa Cum Laude*.
 ---
 
 ## About Me
