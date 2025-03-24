@@ -6,7 +6,7 @@ authors:
   - admin
 tags:
   - Projects
-  - Peru
+  - Event Planning
   - Diversity and Inclusion
 image:
   caption: 'Photography by Riad Rezaul'
