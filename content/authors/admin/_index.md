@@ -201,11 +201,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Sighseeing
+      - name: Volunteering
         description: ''
         percent: 100
         icon: cat
-      - name: Volunteering
+      - name: Sighseeing
         description: ''
         percent: 80
         icon: camera
