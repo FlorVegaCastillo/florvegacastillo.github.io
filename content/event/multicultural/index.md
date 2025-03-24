@@ -7,7 +7,8 @@ event_url: https://www.montana.edu/calendar/events/46589
 location: Procrastinator Theater and Leigh Lounge
 address: MSU campus
 
-abstract: For second consecutive year, I got invited to be one of the emcees at this event where we celebrate the multicultural heritages and backgrounds of MSU's graduees. The DISC Multicultural Graduation Celebration celebrated "the distinct cultural heritages and contributions of students with diverse identities to the campus community." The graduating students were presented with kente cloth, serape, or other stole representing their cultural background.
+summary: For second consecutive year, I got invited to be one of the emcees at this event where we celebrate the multicultural heritages and backgrounds of MSU's graduees. 
+abstract: 'The DISC Multicultural Graduation Celebration celebrated "the distinct cultural heritages and contributions of students with diverse identities to the campus community." The graduating students were presented with kente cloth, serape, or other stole representing their cultural background.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -16,7 +17,7 @@ date: '2023-05-08'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-05-08T00:00:00Z'
 
 authors:
   - admin
@@ -56,4 +57,4 @@ projects:
   - []
 ---
 
-
+.........
