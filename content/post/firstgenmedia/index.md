@@ -22,7 +22,7 @@ here](https://www.msuexponent.com/news/new-association-emerges-to-support-first-
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Leading a breakout discussion group during a language and story exchange event held last November in MSU’s American Indian Hall.</figcaption>
+    <figcaption>Delivering the closing remarks at the inaugural First-Generation Panel on November 9, 2022.</figcaption>
   </figure>
 </div>
 
