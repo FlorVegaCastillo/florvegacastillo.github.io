@@ -19,7 +19,6 @@ Soon after starting my master's in public administration program at MSU, I got i
 The first article that [the MSU Exponent Newspaper](https://www.msuexponent.com/) published was about the creation of the student organization. Amanda Fulton interviewed me to learn more about our mission and the club creation. I also mentioned my overall goal was to help fellow first-generation college students to find that spark that will move them forward into their academic journey. You can access the article [New association emerges to support first-generation students
 here](https://www.msuexponent.com/news/new-association-emerges-to-support-first-generation-students/article_fb052f02-b3a3-11ed-bdb3-db95a2a902cf.html) 
 
-
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
