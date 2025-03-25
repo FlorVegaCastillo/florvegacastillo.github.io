@@ -32,7 +32,7 @@ A special thanks to my dear husband, who has always been my biggest supporter an
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.png" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>The MSU Billings Chancellor, Dr. Stefani Hicswa, hands me my diploma at Metra Park.</figcaption>
+    <figcaption>Dr. Stefani Hicswa, MSU Billings Chancellor, hands me my master's degree in public relations diploma at Metra Park.</figcaption>
   </figure>
 </div>
 
