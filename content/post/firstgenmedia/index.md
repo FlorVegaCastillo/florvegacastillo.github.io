@@ -21,7 +21,10 @@ here](https://www.msuexponent.com/news/new-association-emerges-to-support-first-
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Leading a breakout discussion group during a language and story exchange event held last November in MSU’s American Indian Hall.</figcaption>
+  </figure>
 </div>
 
 We were interviewed once again by the MSU The Exponent Newspaper to disseminate an open invite to every student to attend our series of workshops. In partnership with the Counseling and Psychological Services, the Allen Yarnell Center for Student Success and the Office of Health Advancement, we covered topics such as mental health, professional development and nutrition in an interative way.
