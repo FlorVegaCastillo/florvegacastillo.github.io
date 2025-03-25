@@ -9,7 +9,7 @@ tags:
   - MSU
   - Awards
 image:
-  caption: 'Photography autosubmitted'
+  caption: 'Autosubmitted picture'
 featured: true
 focal_point: "top"
 ---
