@@ -39,7 +39,7 @@ A special thanks to my dear husband, who has always been my biggest supporter an
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="5.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>My loving husband, Ph.D. candidate Giorgio Morales, and I posing after the ceremony.</figcaption>
+    <figcaption>My loving husband, Ph.D. candidate in Computer Science Giorgio Morales, and I posing after the ceremony.</figcaption>
   </figure>
 </div>
 

@@ -20,14 +20,21 @@ The United Nations General Assembly Hall located in New York received us to addr
  
 
 <div style="display: flex; justify-content: center;">
-    <img src="a.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>My loving husband, Ph.D. candidate in Computer Science Giorgio Morales, and I posing after the ceremony.</figcaption>
+  </figure>
 </div>
 
 According to their official event page, the 2023 Global Engagement Summit united world leaders with the most selected changemakers. About a thousand community leaders gathered at the United Nations Headquarters in New York.
 
 <div style="display: flex; justify-content: center;">
-    <img src="b.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>My loving husband, Ph.D. candidate in Computer Science Giorgio Morales, and I posing after the ceremony.</figcaption>
+  </figure>
 </div>
+
 Encouraging young leaders to pursue change through positive impact, the UNA advocates for everybody's chance to have a seat at the table. What a pleasure to experience this once-in-a-lifetime opportunity! 
 
 <div style="display: flex; justify-content: center;">
