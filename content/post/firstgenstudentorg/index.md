@@ -21,7 +21,10 @@ According to the National Association of Student Personnel Administrators - [NAS
 FGSA mission statement is to provide a welcoming environment through planned and coordinated activities and programs to offer first-generation students positive and high-impact experiences and support. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="d.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Receiving the award from Montana State University President, Waded Cruzado.</figcaption>
+  </figure>
 </div>
 
 Thanks to the generosity of MSU offices, departments, and allies in the MSU community, we were able to host:
@@ -32,7 +35,10 @@ Thanks to the generosity of MSU offices, departments, and allies in the MSU comm
 Among other initiatives.
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Dr. Barbara do Amaral, FGSA Club Advisor, and myself as FGSA representative after the ceremony.</figcaption>
+  </figure>
 </div>
-Dr. Barbara do Amaral, Club Advisor, and myself as FGSA representative are portrayed in this picture.
+
 
