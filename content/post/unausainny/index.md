@@ -22,7 +22,7 @@ The United Nations General Assembly Hall located in New York received us to addr
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>My loving husband, Ph.D. candidate in Computer Science Giorgio Morales, and I posing after the ceremony.</figcaption>
+    <figcaption>Standing in front of the United Nations flag in the Headquarters' first floor.</figcaption>
   </figure>
 </div>
 
@@ -31,17 +31,23 @@ According to their official event page, the 2023 Global Engagement Summit united
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>My loving husband, Ph.D. candidate in Computer Science Giorgio Morales, and I posing after the ceremony.</figcaption>
+    <figcaption>GES first invited speaker and moderator.</figcaption>
   </figure>
 </div>
 
 Encouraging young leaders to pursue change through positive impact, the UNA advocates for everybody's chance to have a seat at the table. What a pleasure to experience this once-in-a-lifetime opportunity! 
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>I stand in front of SDG #4 and #5 in the United Nations Headquarters.</figcaption>
+  </figure>
 </div>
 The Sustainable Development Goals (SDGs) I have a stronger commitment to are #4 Quality Education and #5 Gender Equality. Let's keep working towards more collaborative global connections!
 
 <div style="display: flex; justify-content: center;">
-    <img src="d.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>The map shows every countries' flag as a whole, bigger than the sum of its parts.</figcaption>
+  </figure>
 </div>
