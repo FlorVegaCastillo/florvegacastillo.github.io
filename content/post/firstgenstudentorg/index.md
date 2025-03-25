@@ -36,7 +36,7 @@ Among other initiatives.
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption>Dr. Barbara do Amaral, FGSA Club Advisor, and myself as FGSA representative after the ceremony.</figcaption>
   </figure>
 </div>
