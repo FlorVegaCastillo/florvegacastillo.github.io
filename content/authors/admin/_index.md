@@ -154,7 +154,7 @@ skills:
       - name: Stakeholder Engagement
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: custom/group-arrows
       - name: Media Relations
         description: ''
         percent: 100
@@ -166,7 +166,7 @@ skills:
       - name: Community Outreach
         description: ''
         percent: 100
-        icon: circle-stack
+        icon: custom/tower
   - name: Soft Skills
     items:
       - name: Driven
@@ -184,7 +184,7 @@ skills:
       - name: Pragmatic
         description: ''
         percent: 100
-        icon: circle-stack 
+        icon: custom/earth
       - name: Collaborative
         description: ''
         percent: 100
@@ -192,7 +192,7 @@ skills:
       - name: Reliable
         description: ''
         percent: 100
-        icon: circle-stack    
+        icon: custom/parachute
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
