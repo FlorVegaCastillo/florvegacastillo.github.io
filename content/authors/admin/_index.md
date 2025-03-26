@@ -298,7 +298,7 @@ awards:
     awarder: Universidad César Vallejo
     icon: UCV
     summary: |
-      *Summa Cum Laude*.
+      *Summa Cum Laude* after ranking second highest out of 74 graduees in my major.
 ---
 
 ## About Me
