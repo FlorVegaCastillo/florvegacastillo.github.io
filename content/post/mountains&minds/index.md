@@ -1,6 +1,6 @@
 ---
-title: Bringing people together
-summary: I got featured in MSU's Mountains & Minds magazine.
+title: MSU's article: Bringing people together
+summary: I got featured in Montana State University's Mountains & Minds magazine.
 date: 2024-04-24
 authors:
   - admin
