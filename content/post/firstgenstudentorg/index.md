@@ -23,7 +23,7 @@ FGSA mission statement is to provide a welcoming environment through planned and
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Receiving the award from Montana State University President, Waded Cruzado.</figcaption>
+    <figcaption>An outreach activity during Catapalooza (an student engagement event) in August, 2023.</figcaption>
   </figure>
 </div>
 
