@@ -61,16 +61,17 @@ slides: ""
 projects:
   - []
 
-<div style="display: flex; justify-content: center;">
+
+  <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption>My co-emcee, MJ, and I celebrating the Spring 2024 graduees during their group picture. The eleven soon-to-be graduates proudly pose with their selected clothes or stoles that represents their multicultural identities.  </figcaption>
   </figure>
-</div>
+  </div>
 
-<div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption>Spring 2024 graduees and attendees from or with heritage of India, Bangladesh, Phillipines, Japan, Australia, Mongolia, the U.S. and Peru. </figcaption>
   </figure>
-</div>
+  </div>
