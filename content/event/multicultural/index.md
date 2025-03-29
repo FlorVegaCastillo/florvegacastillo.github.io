@@ -12,7 +12,7 @@ address:
   postcode: 
   country: United States
 
-summary: For second consecutive year, I got invited to be one of the emcees at this event where we celebrate the multicultural heritages and backgrounds of MSU's graduees. 
+summary: For second consecutive year, I got invited to be one of the emcees at this event where we celebrate the multicultural heritages and backgrounds of MSU's graduating students. 
 abstract: 'The DISC Multicultural Graduation Celebration celebrated "the distinct cultural heritages and contributions of students with diverse identities to the campus community." The graduating students were presented with kente cloth, serape, or other stole representing their cultural background.'
 
 # Talk start and end times.
@@ -60,7 +60,12 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - []
----
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>My co-emcee, MJ, and I celebrating the Spring 2024 graduees during their group picture. The eleven soon-to-be graduates proudly pose with their selected clothes or stoles that represents their multicultural identities.  </figcaption>
+  </figure>
+</div>
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
