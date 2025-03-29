@@ -61,7 +61,7 @@ slides: ""
 projects:
   - []
 
-
+-------
   <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
