@@ -34,15 +34,15 @@ sections:
         Graduate School, Montana State University  
         [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
 
-        **Melis Edwards, Ed.D**  
-        *Director of Graduate Recruitment and Admissions*  
-        Graduate School, Montana State University  
-        [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
+        **Ph.D. Felicia Karas**  
+        *Former Writing Center Director*  
+        Academic Support Center, Montana State University Billings  
+        [fkaras@mtech.edu](mailto:fkaras@mtech.edu)  
 
-        **Melis Edwards, Ed.D**  
-        *Director of Graduate Recruitment and Admissions*  
-        Graduate School, Montana State University  
-        [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
+        **Nicole Hofmeister**  
+        *Early Intervention Service Manager*  
+        Family Outreach  
+        [nhofmeister@familyoutreach.org](mailto:nhofmeister@familyoutreach.org)  
   - block: resume-languages
     content:
       title: Languages
