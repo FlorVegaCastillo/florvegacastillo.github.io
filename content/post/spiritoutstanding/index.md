@@ -14,11 +14,9 @@ featured: true
 focal_point: "top"
 ---
 
-The First-Generation Students Association at MSU obtained the Student Organization of the Year Award during the 100th Annual Day of Student Recognition on May 5, 2023. Being the Founder President of this student group with members from diverse backgrouns represents a big commitment and honor. We serve undergraduate and graduate students.
+ Montana State University celebrated its 100th annual Day of Student Recognition, where the university awarded students and groups in five categories: Legacy, Service, Leadership, Teaching & Mentorship, and Academics & Research. I'm thrilled to announce that I obtained the Spirit Outstanding Student Award - "Student who embodies leadership, citizenship, and involvement" (Service).
 
-According to the National Association of Student Personnel Administrators - [NASPA](https://firstgen.naspa.org/), a first-generation college student is someone whose parents did not complete a 4-year college or university degree.
-
-FGSA mission statement is to provide a welcoming environment through planned and coordinated activities and programs to offer first-generation students positive and high-impact experiences and support. 
+ Being a full-time graduate student, a graduate assistant in one of the core departments of MSU, like the Graduate School, president of the [First-Generation Students Association](https://www.instagram.com/msu_firstgenerationstudents/) and vice president of United Nations Association of the United States of America (UNA-USA) Bozeman chapter, a volunteer mentor for the [Thrive's](https://allthrive.org/) (non-profit organization) Child Advancement Project and a volunteer at the MSU Diversity and Inclusion Student Commons is helping me to discover my full potential. 
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
