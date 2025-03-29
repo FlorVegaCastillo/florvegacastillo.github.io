@@ -29,63 +29,20 @@ sections:
       title: '📞 Contact References'
       subtitle: ''
       text: |-
-        |
-        Reference 1 
-        |
-        Reference 2 
-        |
-        Reference 3 
-        |
-        |
-        -------------
-        |
-        -------------
-        |
-        -------------
-        |
-        |
-        John W. Sheppard
-        <
-        br
-        >
-        Gianforte School of Computing
-        <
-        br
-        >
-        Montana State University
-        <
-        br
-        >
-        john.sheppard@montana.edu 
-        |
-        Joseph A. Shaw
-        <
-        br
-        >
-        Gianforte School of Computing
-        <
-        br
-        >
-        Montana State University
-        <
-        br
-        >
-        john.sheppard@montana.edu 
-        |
-        Sean Yaw
-        <
-        br
-        >
-        Gianforte School of Computing
-        <
-        br
-        >
-        Montana State University
-        <
-        br
-        >
-        john.sheppard@montana.edu 
-        |
+        **Melis Edwards, Ed.D**  
+        *Director of Graduate Recruitment and Admissions*
+        Graduate School, Montana State University  
+        [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
+
+        **Melis Edwards, Ed.D**  
+        *Director of Graduate Recruitment and Admissions*
+        Graduate School, Montana State University  
+        [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
+
+        **Melis Edwards, Ed.D**  
+        *Director of Graduate Recruitment and Admissions*
+        Graduate School, Montana State University  
+        [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
   - block: resume-languages
     content:
       title: Languages
