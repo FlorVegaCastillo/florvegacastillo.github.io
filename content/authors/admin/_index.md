@@ -210,6 +210,14 @@ skills:
         percent: 80
         icon: camera
 
+references:
+  - name: Reference 1
+    description: 'Montana Hall 123, MT'
+  - name: Reference 1
+    description: 'Montana Hall 123, MT'
+  - name: Reference 1
+    description: 'Montana Hall 123, MT'
+
 languages:
   - name: Spanish
     percent: 100
