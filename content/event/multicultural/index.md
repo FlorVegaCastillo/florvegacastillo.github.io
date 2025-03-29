@@ -62,4 +62,9 @@ projects:
   - []
 ---
 
-.........
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Spring 2024 graduees and attendees from or with heritage of India, Bangladesh, Phillipines, Japan, Australia, Mongolia, the U.S. and Peru. </figcaption>
+  </figure>
+</div>
