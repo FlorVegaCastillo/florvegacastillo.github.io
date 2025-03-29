@@ -24,10 +24,68 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-references
+  - block: markdown
     content:
-      title: References
-      username: admin
+      title: '📞 Contact References'
+      subtitle: ''
+      text: |-
+        |
+        Reference 1 
+        |
+        Reference 2 
+        |
+        Reference 3 
+        |
+        |
+        -------------
+        |
+        -------------
+        |
+        -------------
+        |
+        |
+        John W. Sheppard
+        <
+        br
+        >
+        Gianforte School of Computing
+        <
+        br
+        >
+        Montana State University
+        <
+        br
+        >
+        john.sheppard@montana.edu 
+        |
+        Joseph A. Shaw
+        <
+        br
+        >
+        Gianforte School of Computing
+        <
+        br
+        >
+        Montana State University
+        <
+        br
+        >
+        john.sheppard@montana.edu 
+        |
+        Sean Yaw
+        <
+        br
+        >
+        Gianforte School of Computing
+        <
+        br
+        >
+        Montana State University
+        <
+        br
+        >
+        john.sheppard@montana.edu 
+        |
   - block: resume-languages
     content:
       title: Languages
