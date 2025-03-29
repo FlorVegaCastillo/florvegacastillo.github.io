@@ -31,16 +31,19 @@ sections:
       text: |-
         **Melis Edwards, Ed.D**  
         *Director of Graduate Recruitment and Admissions*
+
         Graduate School, Montana State University  
         [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
 
         **Melis Edwards, Ed.D**  
         *Director of Graduate Recruitment and Admissions*
+
         Graduate School, Montana State University  
         [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
 
         **Melis Edwards, Ed.D**  
         *Director of Graduate Recruitment and Admissions*
+        
         Graduate School, Montana State University  
         [melisenda.edwards@montana.edu](mailto:melisenda.edwards@montana.edu)  
   - block: resume-languages
