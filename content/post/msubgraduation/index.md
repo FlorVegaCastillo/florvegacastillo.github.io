@@ -10,7 +10,7 @@ tags:
   - Graduation
 image:
   caption: 'Photography by Giorgio Morales'
-featured: true
+featured: false
 focal_point: "top"
 ---
 
