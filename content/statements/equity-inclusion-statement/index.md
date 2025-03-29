@@ -7,7 +7,7 @@ authors:
 tags:
   - Statement
 image:
-  caption: 'Photography by Riad Rezaul'
+  caption: 'Photography by Asad Noor'
 featured: true
 focal_point: "top"
 ---
