@@ -1,7 +1,7 @@
 ---
-title: I obtained the Spirit Outstanding Student Award
-summary: MSU celebrated its 100th annual Day of Student Recognition, where the university awarded students and groups in five categories.
-date: 2023-05-05
+title: I was recognized with the Gender Equity Award
+summary: MSU celebrated its 101th annual Day of Student Recognition, where the university awarded students and groups in five categories.
+date: 2024-05-01
 authors:
   - admin
 tags:
