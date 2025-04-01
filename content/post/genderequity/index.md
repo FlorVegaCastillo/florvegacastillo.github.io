@@ -20,9 +20,9 @@ focal_point: "top"
   <figure style="text-align: center;">
     <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption>Posing with Dr. Melis Edwards, Director of Graduate Recruitment and Admissions and one of my mentors at Montana State University.
- .</figcaption>
+  </figcaption>
   </figure>
-</div>
+ </div>
 
  Besides my graduate studies in the master in public administration program and my work as a graduate recruitment and admissions assistant, I have led two student organizations: I served as president of the [First-Generation Students Association](https://www.instagram.com/msu_firstgenerationstudents/) and vice president of United Nations Association of the United States of America [UNA-USA Bozeman chapter](https://www.instagram.com/unausamontanastate/). However, my engagement went beyond my on-campus relationships and volunteered for different non-profit organizations.
 
