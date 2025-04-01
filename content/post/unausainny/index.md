@@ -10,7 +10,7 @@ tags:
   - Conference
 image:
   caption: 'Photography by Siddat Nesar'
-featured: true
+featured: false
 focal_point: "top"
 ---
 

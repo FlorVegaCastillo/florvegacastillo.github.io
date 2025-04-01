@@ -10,7 +10,7 @@ tags:
   - Awards
 image:
   caption: 'Autosubmitted picture'
-featured: true
+featured: false
 focal_point: "top"
 ---
 
