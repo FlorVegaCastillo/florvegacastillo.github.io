@@ -14,25 +14,32 @@ featured: true
 focal_point: "top"
 ---
 
-The First-Generation Students Association (FGSA), student organization I presided between November 2022 until December 22, hosted "Independence Fiesta" an event that celebrated the Independence Days of Argentina, Colombia, Peru and Venezuela. After inviting the Fuerza Latinx student organization to join us in our efforts, we hosted this very successful *Fiesta* 
+As an end-of-the-semester event, the UNA-USA Montana State University-Bozeman Chapter and the Office of International Programs are hosting "Building Bridges," to happen on April 27 and 28. 
 
-Around 250 people from Bozeman, Belgrade and Big Sky and other nearby areas, came to campus to join in a common sense of togetherness. This was possible thanks to our diligent planning committee, our committed volunteers (who volunteered to dance, decorate, greet and other tasks), our generous donors (MSU departments and offices as well as community public organizations) and our attendees, the best audience we could have asked for. We had two to three traditional dances from each country, live music, a DJ, traditional games, and these nations' cuisine. 
+[MSU News Services wrote this article](https://www.montana.edu/news/22844/montana-state-hosts-building-bridges-event-to-foster-cross-cultural-dialogue) with all the details about this unique and significant opportunity for students, faculty, and staff to learn more about best practices and research on sustainability, and international graduate students from diverse majors' work and their relationship with sustainable development goals. We will also have speakers from different countries to share surprising information about their cultures and experiences.
 
-As FGSA President and the chair planning committee, I also took on the responsibility of choreographing the two Peruvian traditional dances we performed. I spearheaded the fundraising efforts, coordinated the logistics of the venue, A/V tech needs, the catering order, and the advertisement of the event. We promoted the event through public service announcements, social media reels and posts, WhatsApp group messaing, email invites (general and personalized), [news articles](https://www.montana.edu/news/22999/montana-state-to-celebrate-inaugural-independence-fiesta-on-july-6), and got interviewed at a [local news broadcasting channel and website](https://www.kbzk.com/news/local-news/first-generation-south-american-students-bringing-independence-day-celebration-to-montana-state).
+A short quote from the article:
 
-In general, we ended up with an incredible feeling of satisfaction. We had attendees from different nationalities, and perhaps more importantly, we had people from multiple countries performing with us celebrating our cultures.
-
+“We believe that this event will portray not only the importance of core topics like sustainability but also how these are seen and portrayed through the lenses of MSU students from different countries but also from diverse majors,” said Flor Vega-Castillo, the vice president of MSU’s chapter of the United Nations Association and an international graduate student from Peru. “I will be leading the panel of MSU graduate students from North and South America, Western Asia, South Asia, and West Africa, and I am very excited about hearing from them and learning how their experiences and aspirations align with some (Sustainable Development Goals).”
 
 <div style="display: flex; justify-content: center;">
     <img src="a.jpg" alt="figure" width="60%">
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <img src="b.jpg" alt="figure" width="60%">
-</div>
+This is another instance where I find myself truly enjoying the many other aspects of higher education and how public administration and public relations (both my majors) are connected in magnificent ways. I was responsible for:
+- Developed media management strategies, writing press releases and serving as one of the spokespeople for this event.
+- Arranged the panelists line-up for the first day of the event and moderating that panel discussion.
+- Ensured logistic needs were covered, incliding A/V tech and catering.
+- Ordered and acquired of the incentives for the panelists, and speakers through UNA-USA.
+- Created and organized the slideshows shown at both days of the event while keeping consistent communication with the speakers and co-organizers.
+- Shared my lived multicultural experiences in the second day of the event and engaged into deeper conversations during the reception.
 
 <div style="display: flex; justify-content: center;">
     <img src="c.jpg" alt="figure" width="60%">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="b.jpg" alt="figure" width="60%">
 </div>
 
 <div style="display: flex; justify-content: center;">
