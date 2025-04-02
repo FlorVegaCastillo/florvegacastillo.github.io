@@ -40,7 +40,7 @@ This is another instance where I find myself truly enjoying the many other aspec
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>The panel was formed by: Fatemeh Aflatounian – Mechanical and industrial engineering (Iran), Francesco Bakhos – Innovation and management (Lebanon), Ayomide Foluso – Community health (Nigeria), Giorgio Morales – Computer science (Peru), Farshina Nazrul – Electrical engineering (Bangladesh), Adriana Reyes de Merkle – Professional social worker (Colombia), and Johnathan Reyes de Merkle – Ecology (United States).
+    <figcaption>The panel I moderated was formed by: Fatemeh Aflatounian – Mechanical and industrial engineering (Iran), Francesco Bakhos – Innovation and management (Lebanon), Ayomide Foluso – Community health (Nigeria), Giorgio Morales – Computer science (Peru), Farshina Nazrul – Electrical engineering (Bangladesh), Adriana Reyes de Merkle – Professional social worker (Colombia), and Johnathan Reyes de Merkle – Ecology (United States).
   </figcaption>
   </figure>
 </div>
