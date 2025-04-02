@@ -27,9 +27,9 @@ A short quote from the article:
 </div>
 
 This is another instance where I find myself truly enjoying the many other aspects of higher education and how public administration and public relations (both my majors) are connected in magnificent ways. I was responsible for:
-- Developed media management strategies, writing press releases and serving as one of the spokespeople for this event.
-- Arranged the panelists line-up for the first day of the event and moderating that panel discussion.
-- Ensured logistic needs were covered, incliding A/V tech and catering.
+- Developed media management strategies, wrote press releases and served as one of the spokespeople for this event.
+- Arranged the panelists line-up for the first day of the event and moderated the panel discussion.
+- Ensured logistic needs were covered, including A/V tech and catering.
 - Ordered and acquired of the incentives for the panelists, and speakers through UNA-USA.
 - Created and organized the slideshows shown at both days of the event while keeping consistent communication with the speakers and co-organizers.
 - Shared my lived multicultural experiences in the second day of the event and engaged into deeper conversations during the reception.
