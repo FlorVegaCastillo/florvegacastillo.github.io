@@ -23,7 +23,10 @@ A short quote from the article:
 “We believe that this event will portray not only the importance of core topics like sustainability but also how these are seen and portrayed through the lenses of MSU students from different countries but also from diverse majors,” said Flor Vega-Castillo, the vice president of MSU’s chapter of the United Nations Association and an international graduate student from Peru. “I will be leading the panel of MSU graduate students from North and South America, Western Asia, South Asia, and West Africa, and I am very excited about hearing from them and learning how their experiences and aspirations align with some (Sustainable Development Goals).”
 
 <div style="display: flex; justify-content: center;">
-    <img src="a.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>I talk about the different multiculturalism layers of Peru, including its demographics, various types of soil and climate, as well as its well-known outstanding cuisine.</figcaption>
+  </figure>
 </div>
 
 This is another instance where I find myself truly enjoying the many other aspects of higher education and how public administration and public relations (both my majors) are connected in magnificent ways. I was responsible for:
@@ -35,14 +38,24 @@ This is another instance where I find myself truly enjoying the many other aspec
 - Shared my lived multicultural experiences in the second day of the event and engaged into deeper conversations during the reception.
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>The panel was formed by: Fatemeh Aflatounian – Mechanical and industrial engineering (Iran), Francesco Bakhos – Innovation and management (Lebanon), Ayomide Foluso – Community health (Nigeria), Giorgio Morales – Computer science (Peru), Farshina Nazrul – Electrical engineering (Bangladesh), Adriana Reyes de Merkle – Professional social worker (Colombia), and Johnathan Reyes de Merkle – Ecology (United States).
+  </figcaption>
+  </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="b.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Attendees listening to the opening remarks at Day 2 of Building Bridges.</figcaption>
+  </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="d.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>From left to right: Dr. Roland Ebel (College of Education, Health and Human Development),the above mentioned panelists, Kara Good (UNA-USA President), myself (UNA-USA Vice President) and Dean Kristof Zaba (Office of International Program) together at the end of Day 1. </figcaption>
+  </figure>
 </div>
 
