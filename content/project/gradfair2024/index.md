@@ -1,13 +1,13 @@
 ---
-title: Independence Fiesta, a celebration of the Latin American cultures, brough together three towns in the Gallatin Valley
-summary: On this open event, the MSU Ballroom A got filled with a vibrant community, traditional dances, powerful rhythms, tasty food, and a common sense of belonging.
-date: 2023-07-06
+title: MSU Grad Fair brought back its in-person session and offered seven online sessions people joining from all over the world
+summary: Five days filled with learning opportunities and meaningful connections with prospective graduate students at the Montana State University Grad Fair!
+date: 2024-11-12
 authors:
   - admin
 tags:
   - Projects
   - Event Planning
-  - Diversity and Inclusion
+  - Higher Education
 image:
   caption: 'Photography by Riad Rezaul'
 featured: true
