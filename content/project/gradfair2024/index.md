@@ -9,28 +9,46 @@ tags:
   - Event Planning
   - Higher Education
 image:
-  caption: 'Photography by Riad Rezaul'
+  caption: 'Autosubmitted picture'
 featured: true
 focal_point: "top"
 ---
 
-The First-Generation Students Association (FGSA), student organization I presided between November 2022 until December 22, hosted "Independence Fiesta" an event that celebrated the Independence Days of Argentina, Colombia, Peru and Venezuela. After inviting the Fuerza Latinx student organization to join us in our efforts, we hosted this very successful *Fiesta* 
+Although my team and I had hosted virtual Grad Fairs in the past, this time we also had an in-person component. In addition to two days of virtual sessions dedicated to international applicants (three per day) and one virtual session for U.S.-based applicants, we also hosted an in-person fair, with 24 MSU departments and five Montana university graduate schools participating (listed below). 
 
-Around 250 people from Bozeman, Belgrade and Big Sky and other nearby areas, came to campus to join in a common sense of togetherness. This was possible thanks to our diligent planning committee, our committed volunteers (who volunteered to dance, decorate, greet and other tasks), our generous donors (MSU departments and offices as well as community public organizations) and our attendees, the best audience we could have asked for. We had two to three traditional dances from each country, live music, a DJ, traditional games, and these nations' cuisine. 
+An average of 120 attendees joined the six international sessions 
+Approximately 80 attendees participated in the U.S.-based virtual session.
+Around 100 attendees came to the in-person Grad Fair.
+I took a primary role in organizing, advertising, and hosting. Here are some of the tasks:
 
-As FGSA President and the chair planning committee, I also took on other responsibilities:
-- Spearheaded the fundraising efforts, obtaining support from on-campus offices and non-profit organizations in Bozeman.
-- Planned and led a complete multiplatform marketing campaign, including public service announcements on radio, social media reels and flyer design.
-- Developed media management strategies, wrote press releases and served as one of the spokespeople for this event.
-- Recruited dancers for the event and other types of volunteers.
-- Ensured logistic needs were covered, including A/V tech and catering.
-- Created and organized the slideshows shown at the event.
-- Performed as one of the masters of ceremonies during the event. We conducted the event in both English and Spanish at all times to ensure a more accessible program.
-- Choreographed the two Peruvian traditional dances we performed. 
+Logistics:
+●Booked the venue, designed the setup, and coordinated catering orders.
+●Recruited and coordinated speakers and panelists for the in-person sessions.
+●Worked with the Office of International Programs to arrange hosts for the international virtual sessions.
+●Created a new design for the slides used during the info sessions and an auto-play presentation for the in-person fair, as well as the virtual sessions.
+●Developed welcome packets for booth representatives.
+●Created personalized name tags.
 
-We promoted the event through public service announcements, social media reels and posts, WhatsApp group messaging, email invites (general and personalized), [news articles](https://www.montana.edu/news/22999/montana-state-to-celebrate-inaugural-independence-fiesta-on-july-6), and got interviewed at a [local news broadcasting channel and website](https://www.kbzk.com/news/local-news/first-generation-south-american-students-bringing-independence-day-celebration-to-montana-state).
+Advertisement:
+♦Worked with University Communications to assess and refine the design materials.
+♦Executed social media posts and stories.
+♦Distributed event graphics through MSU's digital outlets (screens in housing residences and dining halls, newsletters, event calendars, and announcements).
+♦Coordinated a local radio Public Service Announcement (PSA).
+♦Organized and attended tabling opportunities to increase event awareness.
+♦Connected with student organizations to help promote the event.
+♦Created content for the event website.
+♦Drafted a press release for potential publication or news article creation.
+♦Photo coverage on the day of the event.
 
-In general, we ended up with an incredible feeling of satisfaction. We had attendees from different nationalities, and perhaps more importantly, we had people from multiple countries performing with us celebrating our cultures.
+Emailing:
+▪️Wrote engaging emails and text messages to students in their second, third, and fourth years through the NavMSU platform.
+▪️Revised automated emails to be sent to prospective students who registered for the sessions.
+▪️Drafted invite emails for departments to forward to their prospective students.
+▪️Communicated with speakers, panelists, and booth representatives, including session-specific details and reminders.
+
+A huge thank you to my colleagues in the Recruitment and Admissions unit at The Graduate School at Montana State University: Melis Edwards, Danica Lower, Taylor Hophan-Nichols, Mackenzie Williams, and Nirvair Singh Khosa. 
+
+Thanks for joining MSU Billings, Montana Technological University, University of Montana, University of Providence and Touro College of Osteopathic Medicine.
 
 
 <div style="display: flex; justify-content: center;">
