@@ -40,7 +40,7 @@ profiles:
 
 
 interests:
-  - Communication Campaign Strategies
+  - Multiplatform Communication Campaigns
   - Public Relations Building
   - Effective Outreach Techniques
   - Engaging Content Development
