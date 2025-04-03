@@ -34,15 +34,24 @@ Even though we had to stop our activities after one year and a half, we keep all
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="a.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Snapshot of the second edition of the My Life Project online workshop with a high school institution near the rainforest area in Peru. </figcaption>
+  </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="b.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Last session with the high school senior students. The high school principal, Mr. Jorge Gonzales, shared closing remarks. </figcaption>
+  </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>An Instagram post introducing all the workshop facilitators. From left to right, Melisa Llaja (Lima, Peru), Mario Escalante (Lima, Peru), Luis Camasca (Lambayeque, Peru) and me (Montana, United States). </figcaption>
+  </figure>
 </div>
 
 
