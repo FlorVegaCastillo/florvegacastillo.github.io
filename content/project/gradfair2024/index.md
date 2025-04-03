@@ -14,11 +14,12 @@ featured: true
 focal_point: "top"
 ---
 
-Although my team and I had hosted virtual Grad Fairs in the past, this time we also had an in-person component. In addition to two days of virtual sessions dedicated to international applicants (three per day) and one virtual session for U.S.-based applicants, we also hosted an in-person fair, with 24 MSU departments and five Montana university graduate schools participating (listed below). 
+In previous [MSU Grad Fair](https://www.montana.edu/gradschool/admissions/grad-fairs/msu-grad-fair.html) editions, the Graduate School hosted virtual sessions; however, this time we also had an in-person component. In addition to two days of virtual sessions dedicated to international applicants (three per day) and one virtual session for U.S.-based applicants, we also hosted an in-person fair, with 24 MSU departments and five Montana university graduate schools participating (listed below). 
 
-An average of 120 attendees joined the six international sessions 
-Approximately 80 attendees participated in the U.S.-based virtual session.
-Around 100 attendees came to the in-person Grad Fair.
+- An average of 120 attendees joined the six international sessions 
+- Approximately 80 attendees participated in the U.S.-based virtual session.
+- Around 100 attendees came to the in-person Grad Fair.
+
 I took a primary role in organizing, advertising, and hosting. Here are some of the tasks:
 
 **Logistics:**  
@@ -46,7 +47,7 @@ I took a primary role in organizing, advertising, and hosting. Here are some of 
 ▪️Drafted invite emails for departments to forward to their prospective students.  
 ▪️Communicated with speakers, panelists, and booth representatives, including session-specific details and reminders.  
 
-A huge thank you to my colleagues in the Recruitment and Admissions unit at The Graduate School at Montana State University: Melis Edwards, Danica Lower, Taylor Hophan-Nichols, Mackenzie Williams, and Nirvair Singh Khosa. 
+This event was possible thanks to my colleagues in the Recruitment and Admissions unit at The Graduate School at Montana State University: Melis Edwards, Danica Lower, Taylor Hophan-Nichols, Mackenzie Williams, and Nirvair Singh Khosa. 
 
 Thanks for joining MSU Billings, Montana Technological University, University of Montana, University of Providence and Touro College of Osteopathic Medicine.
 
@@ -54,28 +55,28 @@ Thanks for joining MSU Billings, Montana Technological University, University of
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Performers dance a traditional dance from Peru. From left to right: Me, Isabela Romero, Josset Guzmán, Adriana Reyes de Merkle, Jack, Evelyn Paz, and Paola Torres. </figcaption>
+    <figcaption>General Grad Fair flyer with information about all sessions. </figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Performers dance a traditional dance from Venezuela. From front to back: Aydemar Guerrero, Leonardo Valladares, Veronica Nelson, and Dionicio. </figcaption>
+    <figcaption>Attendees and MSU departments representatives engaging into nice conversations about the grad admission process. </figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Argentinian Empanadas, Venezuelan Arepas, Peruvian Chicken Causa, Colombian Bocadillo and more traditional food was served in this free event. </figcaption>
+    <figcaption>Some members of my team at the check-in table outside the Ballroom. From left to right: Melis Edwards, Mackenzie Williams and I. </figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Performers and attendees dance in the open dance floor after the program. A local DJ played the catchiest rythms from Argentina, Colombia, Peru and Venezuela and other Latin American countries like Mexico, Dominican Republic and others. </figcaption>
+    <figcaption>Besides our very own MSU department representatives, we invited other Montana universities' grad school staff to have a table. </figcaption>
   </figure>
 </div>
 
