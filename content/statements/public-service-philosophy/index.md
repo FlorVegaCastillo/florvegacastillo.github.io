@@ -25,3 +25,7 @@ Then, I have kept in mind that **it’s not just a matter of being resilient in 
 <div style="display: flex; justify-content: center;">
     <img src="b.jpg" alt="figure" width="60%">
 </div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="c.jpg" alt="figure" width="60%">
+</div>
