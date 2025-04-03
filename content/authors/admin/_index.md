@@ -57,7 +57,7 @@ education:
     date_start: 2021-01-01
     date_end: 2022-07-31
     summary: |
-      GPA: 3.7/4.0. Advisor Dr. Melissa Boehm
+      GPA: 3.97/4.0. Advisor Dr. Melissa Boehm
   - area: Bachelor in Communication Sciences
     institution: Cesar Vallejo University
     date_start: 2012-03-01
