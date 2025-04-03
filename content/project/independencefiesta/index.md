@@ -34,18 +34,30 @@ In general, we ended up with an incredible feeling of satisfaction. We had atten
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="a.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Performers dance a traditional dance from Peru. From left to right: Me, Isabela Romero, Josset Guzmán, Adriana Reyes de Merkle, Jack, Evelyn Paz, and Paola Torres. </figcaption>
+  </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="b.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Performers dance a traditional dance from Venezuela. From front to back: Aydemar Guerrero, Leonardo Valladares, Veronica Nelson, and Dionicio. </figcaption>
+  </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Argentinian Empanadas, Venezuelan Arepas, Peruvian Chicken Causa, Colombian Bocadillo and more traditional food was served in this free event. </figcaption>
+  </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="d.jpg" alt="figure" width="60%">
+  <figure style="text-align: center;">
+    <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Performers and attendees dance in the open dance floor after the program. A local DJ played the catchiest rythms from Argentina, Colombia, Peru and Venezuela and other Latin American countries like Mexico, Dominican Republic and others. </figcaption>
+  </figure>
 </div>
 
