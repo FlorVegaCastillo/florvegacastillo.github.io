@@ -22,12 +22,12 @@ Around 100 attendees came to the in-person Grad Fair.
 I took a primary role in organizing, advertising, and hosting. Here are some of the tasks:
 
 Logistics:
-●Booked the venue, designed the setup, and coordinated catering orders.
-●Recruited and coordinated speakers and panelists for the in-person sessions.
-●Worked with the Office of International Programs to arrange hosts for the international virtual sessions.
-●Created a new design for the slides used during the info sessions and an auto-play presentation for the in-person fair, as well as the virtual sessions.
-●Developed welcome packets for booth representatives.
-●Created personalized name tags.
+●Booked the venue, designed the setup, and coordinated catering orders.  
+●Recruited and coordinated speakers and panelists for the in-person sessions.  
+●Worked with the Office of International Programs to arrange hosts for the international virtual sessions.  
+●Created a new design for the slides used during the info sessions and an auto-play presentation for the in-person fair, as well as the virtual sessions.  
+●Developed welcome packets for booth representatives.   
+●Created personalized name tags.  
 
 Advertisement:
 ♦Worked with University Communications to assess and refine the design materials.
