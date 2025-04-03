@@ -21,7 +21,7 @@ Approximately 80 attendees participated in the U.S.-based virtual session.
 Around 100 attendees came to the in-person Grad Fair.
 I took a primary role in organizing, advertising, and hosting. Here are some of the tasks:
 
-Logistics:
+**Logistics:**  
 ●Booked the venue, designed the setup, and coordinated catering orders.  
 ●Recruited and coordinated speakers and panelists for the in-person sessions.  
 ●Worked with the Office of International Programs to arrange hosts for the international virtual sessions.  
@@ -29,22 +29,22 @@ Logistics:
 ●Developed welcome packets for booth representatives.   
 ●Created personalized name tags.  
 
-Advertisement:
-♦Worked with University Communications to assess and refine the design materials.
-♦Executed social media posts and stories.
-♦Distributed event graphics through MSU's digital outlets (screens in housing residences and dining halls, newsletters, event calendars, and announcements).
-♦Coordinated a local radio Public Service Announcement (PSA).
-♦Organized and attended tabling opportunities to increase event awareness.
-♦Connected with student organizations to help promote the event.
-♦Created content for the event website.
-♦Drafted a press release for potential publication or news article creation.
-♦Photo coverage on the day of the event.
+**Advertisement:**   
+♦Worked with University Communications to assess and refine the design materials.  
+♦Executed social media posts and stories.  
+♦Distributed event graphics through MSU's digital outlets (screens in housing residences and dining halls, newsletters, event calendars, and announcements).  
+♦Coordinated a local radio Public Service Announcement (PSA).  
+♦Organized and attended tabling opportunities to increase event awareness.  
+♦Connected with student organizations to help promote the event.  
+♦Created content for the event website.  
+♦Drafted a press release for potential publication or news article creation.  
+♦Photo coverage on the day of the event.  
 
-Emailing:
-▪️Wrote engaging emails and text messages to students in their second, third, and fourth years through the NavMSU platform.
-▪️Revised automated emails to be sent to prospective students who registered for the sessions.
-▪️Drafted invite emails for departments to forward to their prospective students.
-▪️Communicated with speakers, panelists, and booth representatives, including session-specific details and reminders.
+**Emailing:**    
+▪️Wrote engaging emails and text messages to students in their second, third, and fourth years through the NavMSU platform.  
+▪️Revised automated emails to be sent to prospective students who registered for the sessions.  
+▪️Drafted invite emails for departments to forward to their prospective students.  
+▪️Communicated with speakers, panelists, and booth representatives, including session-specific details and reminders.  
 
 A huge thank you to my colleagues in the Recruitment and Admissions unit at The Graduate School at Montana State University: Melis Edwards, Danica Lower, Taylor Hophan-Nichols, Mackenzie Williams, and Nirvair Singh Khosa. 
 
