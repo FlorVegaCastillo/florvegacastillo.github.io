@@ -1,10 +1,10 @@
 ---
-title: MSU Multicultural Graduation Celebration 2024
+title: Spring 2023 Language and Story Exchanges
 
-event: Multicultural Graduation Celebration
-event_url: https://www.montana.edu/calendar/events/46589
+event: Spring 2023 Language and Story Exchanges
+event_url: https://www.montana.edu/calendar/events/45966
 
-location: Procrastinator Theater and Leigh Lounge
+location: Reid Hall, 418
 address:
   street: MSU campus
   city: 
@@ -12,8 +12,8 @@ address:
   postcode: 
   country: United States
 
-summary: For second consecutive year, I got invited to be one of the emcees at this event where we celebrate the multicultural heritages of MSU' graduating students.
-abstract: 'The DISC Multicultural Graduation Celebration celebrated "the distinct cultural heritages and contributions of students with diverse identities to the campus community." The graduating students were presented with kente cloth, serape, or other stole representing their cultural background.'
+summary: The Center for Bilingual & Multicultural Education invited the MSU community to join us for lunch and learn about the multilingual and multicultural journeys of MSU faculty, staff and students.
+abstract: 'According to the organizers, the goal for these exchanges is to demonstrate, celebrate and explore the multicultural diversity that exists in our MSU campus community and create dialogue and inquiry around concepts tied to multilingualism, multiculturalism, and what it is like to be on a journey to belong.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -65,13 +65,13 @@ projects:
   <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>My co-emcee, MJ, and I celebrating the Spring 2024 graduees during their group picture. The eleven soon-to-be graduates proudly pose with their selected clothes or stoles that represents their multicultural identities.  </figcaption>
+    <figcaption>Official flyer of these event series.  </figcaption>
   </figure>
   </div>
 
   <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Spring 2024 graduees and attendees from or with heritage of India, Bangladesh, Phillipines, Japan, Australia, Mongolia, the U.S. and Peru. </figcaption>
+    <figcaption>Event organizers and panelists for the first session of this multicultural event. </figcaption>
   </figure>
   </div>
