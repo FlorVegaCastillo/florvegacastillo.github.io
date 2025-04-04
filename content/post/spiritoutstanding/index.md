@@ -9,7 +9,7 @@ tags:
   - MSU
   - Awards
 image:
-  caption: 'Autosubmitted picture'
+  caption: 'Photography by Colter Peterson'
 featured: true
 focal_point: "top"
 ---
