@@ -22,19 +22,34 @@ At the First-Generation Students Association, most of the members were women in 
 
 My commitment is to always welcome and celebrate diversity and foster inclusion and equity. As I read somewhere else, **diversity is a fact, inclusion is an act, and equity is the goal.**
 
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Asian Multicultural Night, April 2023. From left to right: Isabelle Monroe, Remya Nair, Nicole Mitchell, Siddat Nesar, Flor Vega Castillo, Adriana Reyes de Merkle, Farshina Nazrul.
+  </figcaption>
+  </figure>
+ </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="a.jpg" alt="figure" width="60%">
-</div>
+  <figure style="text-align: center;">
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Independence Fiesta, July 2023. All dancers from our six performances came out to the stage and danced a final group performance.
+  </figcaption>
+  </figure>
+ </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="b.jpg" alt="figure" width="60%">
-</div>
+  <figure style="text-align: center;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>India Night, February 2025. From left to right: Flor Vega Castillo, Fariha Tasnim, Remya Nair, Meena Chandrasekar, Redempta Manzi, Prabina Bhattarai, Farshina Nazrul.
+  </figcaption>
+  </figure>
+ </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.jpg" alt="figure" width="60%">
-</div>
-
-<div style="display: flex; justify-content: center;">
-    <img src="d.jpg" alt="figure" width="60%">
-</div>
+  <figure style="text-align: center;">
+    <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>African Cultural Night, February 2025. From left to right: Melisa Carter, Tasnia Chadni, Sara, Flor Vega Castillo, Nimasha Samarasinghe, Adriana Reyes de Merkle, Redempta Manzi, Jasmine Smith Prabina Bhattarai, Remya Nair, Farshina Nazrul, Meena Chandrasekar.
+  </figcaption>
+  </figure>
+ </div>
