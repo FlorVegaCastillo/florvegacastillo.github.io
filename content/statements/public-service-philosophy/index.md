@@ -24,7 +24,7 @@ Then, I have kept in mind that **it’s not just a matter of being resilient in 
     <figcaption>In my role as a news anchor and reporter in Lima, Peru, 2016.
   </figcaption>
   </figure>
- </div
+ </div>
 
 
 <div style="display: flex; justify-content: center;">
@@ -33,7 +33,7 @@ Then, I have kept in mind that **it’s not just a matter of being resilient in 
     <figcaption>During my role as a workshop instructor at the International TV broadcasting for emergency systems course hosted by INICTEL-UNI. Lima, Peru, 2019.
   </figcaption>
   </figure>
- </div  
+ </div>  
 
 
 <div style="display: flex; justify-content: center;">
@@ -42,6 +42,6 @@ Then, I have kept in mind that **it’s not just a matter of being resilient in 
     <figcaption>Celebrating with other performers and attendees at the Asian Multicultural Night on April 2024.
   </figcaption>
   </figure>
- </div  
+ </div>  
 
  
