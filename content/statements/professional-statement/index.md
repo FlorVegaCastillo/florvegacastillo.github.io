@@ -40,7 +40,7 @@ At each of my current and past workplaces, I have strived to build and maintain 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>During my role as a workshop instructor at the International TV broadcasting for emergency systems course hosted by INICTEL-UNI. Lima, Peru, 2019.
+    <figcaption>Interviewing one of the presenters at our APTC Summit as part of my work as a Communications Officer at the Peruvian Association of Cable TV (APTC). Lima, Peru, April 2017.
   </figcaption>
   </figure>
  </div>
