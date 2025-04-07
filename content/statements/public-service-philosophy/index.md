@@ -36,7 +36,7 @@ Then, I have kept in mind that **it’s not just a matter of being resilient in 
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption>Celebrating with other performers and attendees at the Asian Multicultural Night on April 2024.
   </figcaption>
   </figure>
