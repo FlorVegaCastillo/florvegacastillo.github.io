@@ -22,14 +22,26 @@ At each of my current and past workplaces, I have strived to build and maintain 
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="a.jpg" alt="figure" width="60%">
-</div>
+  <figure style="text-align: center;">
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>In-person and Virtual Grad Fair team, November 2024. From left to right: Danica Lower, Flor Vega Castillo, Melis Edwards.
+  </figcaption>
+  </figure>
+ </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="b.jpg" alt="figure" width="60%">
-</div>
+  <figure style="text-align: center;">
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>In my role as a news anchor and reporter in Lima, Peru, 2016.
+  </figcaption>
+  </figure>
+ </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="c.jpg" alt="figure" width="60%">
-</div>
+  <figure style="text-align: center;">
+    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>During my role as a workshop instructor at the International TV broadcasting for emergency systems course hosted by INICTEL-UNI. Lima, Peru, 2019.
+  </figcaption>
+  </figure>
+ </div>
 
