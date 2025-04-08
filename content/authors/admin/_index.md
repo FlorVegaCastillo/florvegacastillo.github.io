@@ -205,7 +205,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Sighseeing
+      - name: Sightseeing
         description: ''
         percent: 80
         icon: camera
