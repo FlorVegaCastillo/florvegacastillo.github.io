@@ -12,7 +12,7 @@ featured: true
 focal_point: "top"
 ---
 
-At age 16, right before graduating from high school, I found out what my life mission would be. Before making that life-changing decision, I weighed the possibilities through three different potential careers: sociologist, lawyer, or journalist. Until I finally decided that it could be a mix of different things to approach **my true vocation: helping people to amplify their voices.** “Communications Sciences it is.” 
+At age 16, right before graduating from high school, I found out what my ultimate purpose would be. Before making that life-changing decision, I weighed the possibilities through three different potential careers: sociologist, lawyer, or journalist. I finally decided that my career could encompass a mix of different things. **My true vocation was helping people to amplify their voices.** “Communications Sciences it is.” 
 
 My calling for serving the public started in my early career as a TV reporter, where I would visit the most underserved communities to echo their voices, making sure they’d get the local government and private donors’ attention. I would cover those cases where constituents, individuals, or organized groups asked for help. Then, after joining the Public Relations and Affairs Office at the Telecommunications Research National Institute, I would disseminate those research projects’ results to the final users and the overall community. My job was to summarize and interpret the scientific language to a clearer product available for all education-level citizens. 
 
