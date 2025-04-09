@@ -1,13 +1,13 @@
 ---
-title: MSU's The Exponent Newspaper covers FGSA activities
-summary: The first-ever First-Generation Student Association spreads student support awareness and a sense of belonging.
-date: 2023-03-23
+title: MSU's The Exponent Newspaper covers City of Bozeman's Community Chats
+summary: The City of Bozeman's community outreach volunteers hosted Community Chats to promote civic engagement 
+date: 2023-09-07
 authors:
   - admin
 tags:
   - News
   - MSU
-  - Student Organization
+  - Community Outreach
 image:
   caption: 'Recovered from The Exponent website'
 featured: false
@@ -21,7 +21,7 @@ here](https://www.msuexponent.com/news/new-association-emerges-to-support-first-
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption>Delivering the closing remarks at the inaugural First-Generation Panel on November 9, 2022.</figcaption>
   </figure>
 </div>
@@ -33,7 +33,7 @@ Our attendees had a great opportunity to make connections, get to know the resou
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption>Flyer created for advertising the First-Gen Workshops hosted on March 31, 2023.</figcaption>
   </figure>
 </div>
