@@ -72,6 +72,6 @@ projects:
   <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Event organizers and panelists for the first session of this multicultural event. </figcaption>
+    <figcaption>Participating as a panelist during the first session of this multicultural event (South American Exchange). </figcaption>
   </figure>
   </div>
