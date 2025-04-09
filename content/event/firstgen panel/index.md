@@ -62,10 +62,13 @@ projects:
   - []
 
 -------
+
+[Full article about this event](https://www.msuexponent.com/news/creating-bonds-of-support-with-msu-s-first-generation-students/article_1ae293a2-84d5-11ee-9a4d-c7d313cfbdd1.html) in the MSU Exponent website.
+
   <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Photography by Ariana Crockett O'Harra from the MSU Exponent newsletter. [Full article about this event](https://www.msuexponent.com/news/creating-bonds-of-support-with-msu-s-first-generation-students/article_1ae293a2-84d5-11ee-9a4d-c7d313cfbdd1.html) in their website. </figcaption>
+    <figcaption>Photography by Ariana Crockett O'Harra from the MSU Exponent newsletter.</figcaption>
   </figure>
   </div>
 
