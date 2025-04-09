@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: Giorgio Morales'
+  caption: 'Autosubmitted photography'
   focal_point: Right
 
 #links:
