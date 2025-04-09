@@ -25,7 +25,7 @@ A short quote from the article:
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>I talk about the different multiculturalism layers of Peru, including its demographics, various types of soil and climate, as well as its well-known outstanding cuisine.</figcaption>
+    <figcaption>High school students, their teacher and the UNA-USA officers team after our first session.</figcaption>
   </figure>
 </div>
 
@@ -40,7 +40,7 @@ This is another instance where I find myself truly enjoying the many other aspec
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>The panel I moderated was formed by: Fatemeh Aflatounian – Mechanical and industrial engineering (Iran), Francesco Bakhos – Innovation and management (Lebanon), Ayomide Foluso – Community health (Nigeria), Giorgio Morales – Computer science (Peru), Farshina Nazrul – Electrical engineering (Bangladesh), Adriana Reyes de Merkle – Professional social worker (Colombia), and Johnathan Reyes de Merkle – Ecology (United States).
+    <figcaption>Part of the article at the MSU Mountains and Minds Magazine.
   </figcaption>
   </figure>
 </div>
@@ -48,7 +48,7 @@ This is another instance where I find myself truly enjoying the many other aspec
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Attendees listening to the opening remarks at Day 2 of Building Bridges.</figcaption>
+    <figcaption>Participants listening to UNA-USA members from Bangladesh, Mexico, Peru sharing their undergraduate and graduate experiences.</figcaption>
   </figure>
 </div>
 
