@@ -1,12 +1,12 @@
 ---
-title: Building Bridges A Two-Day Event That Showcased Culture
-summary: On this open event, the UNA-USA Bozeman chapter and the Office of International Programs highlighted students from different countries
-date: 2023-04-27
+title: UNA-USA got grant funding from the MSU Alumni Foundation
+summary: The MSU Alumni Foundation seed grant recognized five student organizations in their goal of embodying diversity, equity and inclusion
+date: 2023-03-07
 authors:
   - admin
 tags:
   - Projects
-  - Event Planning
+  - Grant Management
   - Multicultural
 image:
   caption: 'Autosubmitted photography'
@@ -14,13 +14,13 @@ featured: true
 focal_point: "top"
 ---
 
-As an end-of-the-semester event, the UNA-USA Montana State University-Bozeman Chapter and the Office of International Programs are hosting "Building Bridges," to happen on April 27 and 28. 
+As an effort to promote the literacy rates in high school students from Native American Reservations and their multicultural exposure, the UNA-USA Montana State University-Bozeman Chapter got a seed-grant funding from the MSU Alumni Foundation. 
 
-[MSU News Services wrote this article](https://www.montana.edu/news/22844/montana-state-hosts-building-bridges-event-to-foster-cross-cultural-dialogue) with all the details about this unique and significant opportunity for students, faculty, and staff to learn more about best practices and research on sustainability, and international graduate students from diverse majors' work and their relationship with sustainable development goals. We will also have speakers from different countries to share surprising information about their cultures and experiences.
+This was an incredible opportunities for the UNA-USA leadership team to work closely and collaboratively with the Office of International Programs and the Fort Peck Reservation high school's teachers and administrators. [The Mountains and Minds Magazine wrote about this](https://www.montana.edu/news/mountainsandminds/22882/embodying-diversity-equity-and-inclusion?fbclid=IwY2xjawJjdYVleHRuA2FlbQIxMAABHrw3jwdFg0BCZfIucR5z0QBQuc8b6sizpq9gZgIe0V8S_Joc-L3rJWI_s0R__aem_T8kojJF65ctfdBuE-GWJMg) and other four student-led efforts in its Spring 2023 edition.
 
 A short quote from the article:
 
-“We believe that this event will portray not only the importance of core topics like sustainability but also how these are seen and portrayed through the lenses of MSU students from different countries but also from diverse majors,” said Flor Vega-Castillo, the vice president of MSU’s chapter of the United Nations Association and an international graduate student from Peru. “I will be leading the panel of MSU graduate students from North and South America, Western Asia, South Asia, and West Africa, and I am very excited about hearing from them and learning how their experiences and aspirations align with some (Sustainable Development Goals).”
+“With their grant funding, the UNA-USA students will seek to improve literacy in Montana’s rural youth, starting with a collaborative project with students on the Fort Peck Reservation. The project brought a group of high school students to MSU for tours and writing workshops, and funding helped stock a new reading nook at a high school in Fort Peck with furniture and books from a variety of Indigenous and international authors.”
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
@@ -52,10 +52,5 @@ This is another instance where I find myself truly enjoying the many other aspec
   </figure>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <figure style="text-align: center;">
-    <img src="d.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>From left to right: Dr. Roland Ebel (College of Education, Health and Human Development),the above mentioned panelists, Kara Good (UNA-USA President), myself (UNA-USA Vice President) and Dean Kristof Zaba (Office of International Program) together at the end of Day 1. </figcaption>
-  </figure>
-</div>
+
 
