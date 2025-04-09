@@ -29,13 +29,12 @@ A short quote from the article:
   </figure>
 </div>
 
-This is another instance where I find myself truly enjoying the many other aspects of higher education and how public administration and public relations (both my majors) are connected in magnificent ways. I was responsible for:
-- Developed media management strategies, wrote press releases and served as one of the spokespeople for this event.
-- Arranged the panelists line-up for the first day of the event and moderated the panel discussion.
-- Ensured logistic needs were covered, including A/V tech and catering.
-- Ordered and acquired of the incentives for the panelists, and speakers through UNA-USA.
-- Created and organized the slideshows shown at both days of the event while keeping consistent communication with the speakers and co-organizers.
-- Shared my lived multicultural experiences in the second day of the event and engaged into deeper conversations during the reception.
+This initiative was started by the UNA-USA Bozeman chapter ex President and ex Vice President and our team (the new leadership team) had the honor to carrying it on. I was responsible for:
+- Developed project management strategies with the UNA-USA President, Kara Good, and the Office of International Programs staff.
+- Arranged and attended meetings with the Fort Peck Reservation high school personnel to discuss their needs.
+- Ensured logistic needs were covered, including A/V tech and catering for the high school students' visit.
+- Helped with the order of books, furniture and other items for the high school's new reading and writing space "Sanctum."
+- Created and organized the slideshows shown during presentations and activities/games.
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
@@ -48,7 +47,7 @@ This is another instance where I find myself truly enjoying the many other aspec
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Participants listening to UNA-USA members from Bangladesh, Mexico, Peru sharing their undergraduate and graduate experiences.</figcaption>
+    <figcaption>Participants listening to UNA-USA members from Bangladesh, Colombia, Mexico, and Peru sharing their undergraduate and graduate experiences.</figcaption>
   </figure>
 </div>
 
