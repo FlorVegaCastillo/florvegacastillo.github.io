@@ -18,7 +18,7 @@ As an effort to promote the literacy rates in high school students from Native A
 
 This was an incredible opportunities for the UNA-USA leadership team to work closely and collaboratively with the Office of International Programs and the Fort Peck Reservation high school's teachers and administrators. [The Mountains and Minds Magazine wrote about this](https://www.montana.edu/news/mountainsandminds/22882/embodying-diversity-equity-and-inclusion?fbclid=IwY2xjawJjdYVleHRuA2FlbQIxMAABHrw3jwdFg0BCZfIucR5z0QBQuc8b6sizpq9gZgIe0V8S_Joc-L3rJWI_s0R__aem_T8kojJF65ctfdBuE-GWJMg) and other four student-led efforts in its Spring 2023 edition.
 
-A short quote from the article:
+A snap from the article:
 
 “With their grant funding, the UNA-USA students will seek to improve literacy in Montana’s rural youth, starting with a collaborative project with students on the Fort Peck Reservation. The project brought a group of high school students to MSU for tours and writing workshops, and funding helped stock a new reading nook at a high school in Fort Peck with furniture and books from a variety of Indigenous and international authors.”
 

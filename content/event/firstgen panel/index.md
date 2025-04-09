@@ -19,7 +19,7 @@ abstract: 'Every year, the MSU First-Gen Committee, a cross-departamental group,
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-11-05'
 #date_end: '2030-06-01T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-05-08T00:00:00Z'
@@ -78,3 +78,5 @@ projects:
     <figcaption>New elected First-Generation Students Association, Natalie DeMarco, invites attendees to follow our student organization on our platforms. </figcaption>
   </figure>
   </div>
+
+To learn about the entire First-Generation Celebration on campus, please read this [MSU News article](https://www.montana.edu/news/23298/montana-state-wraps-up-a-week-of-celebrating-first-generation-students).
