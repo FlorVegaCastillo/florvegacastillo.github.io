@@ -64,14 +64,14 @@ projects:
 -------
   <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Official flyer of these event series.  </figcaption>
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Photography by Ariana Crockett O'Harra from the MSU Exponent newsletter. [Full article about this event](https://www.msuexponent.com/news/creating-bonds-of-support-with-msu-s-first-generation-students/article_1ae293a2-84d5-11ee-9a4d-c7d313cfbdd1.html) in their website. </figcaption>
   </figure>
   </div>
 
   <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Event organizers and panelists for the first session of this multicultural event. </figcaption>
+    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>New elected First-Generation Students Association, Natalie DeMarco, invites attendees to follow our student organization on our platforms. </figcaption>
   </figure>
   </div>
