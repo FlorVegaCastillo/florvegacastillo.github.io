@@ -1,5 +1,5 @@
 ---
-title: Bozeman Chamber of Commerce's "Leadership Bozeman"
+title: Chamber of Commerce's Leadership Bozeman Program visited MSU
 
 event: Leadership Bozeman - MSU Visit and Panel Discussion
 event_url: https://bozemanchamber.com/leadership-bozeman-agenda
@@ -64,14 +64,9 @@ projects:
 -------
   <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Official flyer of these event series.  </figcaption>
+    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>The panel moderator, Dean of Students Matthew Caires and panelists (from left to right) Flor Vega Castillo, Jack S., Bailey Jones and Ave Roberts.  </figcaption>
   </figure>
   </div>
 
-  <div style="display: flex; justify-content: center;">
-  <figure style="text-align: center;">
-    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Participating as a panelist during the first session of this multicultural event (South American Exchange). </figcaption>
-  </figure>
-  </div>
+
