@@ -2,10 +2,14 @@
 title: Flourishing in Your Mission - Program Proposal and Implementation Plan
 
 event: Flourishing in Your Mission - Program Proposal and Implementation Plan
-link: https://florvegacastillo.github.io/uploads/Program-Proposal-and-ImplementationPlan-FVC.pdf
+event_url: https://florvegacastillo.github.io/uploads/Program-Proposal-and-ImplementationPlan-FVC.pdf
+tags:
+  - Samples
+  - MSU
+  - MPA
 
 
-summary: The Bozeman Chamber of Commerce visited MSU and listed from a student leader panel.
+summary: Flourishing in Your Mission - Program Proposal and Implementation Plan
 abstract: 'The Bozeman Chamber of Commerce conducted its Leadership Bozeman 37 program, which offers 12 sessions from August to May. For its 10th session, participants visited MSU to learn about leadership at this institution. Participants, who are business owners and other community leaders, heard about MSU Extension programs, the Land Grant mission, MSU Growth and perspectives from student leaders'
 
 # Talk start and end times.
@@ -55,20 +59,8 @@ projects:
   - []
 
 -------
-  <div style="display: flex; justify-content: center;">
-  <figure style="text-align: center;">
-    <img src="a.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>The panel moderator, Dean of Students Matthew Caires and panelists (from left to right) Flor Vega Castillo, Jack S., Bailey Jones and Ave Roberts.  </figcaption>
-  </figure>
-  </div>
+ 
 
----
-
-  - Samples
-  - MSU
-  - MPA
----
-
-Flourishing in Your Mission: Program Proposal and Implementation Plan
+-
 
 <!--more-->
