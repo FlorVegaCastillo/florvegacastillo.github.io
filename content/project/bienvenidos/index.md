@@ -58,3 +58,13 @@ tags:
   - MSU
   - MPA
 -------
+
+<a href="https://florvegacastillo.github.io/uploads/Independent-Study-Lessons-learned-with-Bienvenidos.pdf" style="
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-family: sans-serif;
+">See PDF</a>
