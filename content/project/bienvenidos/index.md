@@ -62,14 +62,14 @@ tags:
 <div style="text-align: center;">
   <a href="https://florvegacastillo.github.io/uploads/Independent-Study-Lessons-learned-with-Bienvenidos.pdf" style="
     display: inline-block;
-    padding: 8px 16px;
-    background-color: #007BFF;
+    padding: 12px 24px;
+    background-color:rgb(255, 0, 255);
     color: white;
     text-decoration: none;
     border-radius: 6px;
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    margin: 10px 0;
+    font-size: 16px;
+    margin: 12px 0;
   ">
     Open PDF
   </a>
