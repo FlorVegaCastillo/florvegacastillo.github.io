@@ -3,10 +3,6 @@ title: Program Proposal and Implementation Plan “First-year International Grad
 
 event: “First-year International Graduate Student Support” - Program Proposal and Implementation Plan
 event_url: https://florvegacastillo.github.io/uploads/Program-Proposal-and-ImplementationPlan-FVC.pdf
-tags:
-  - Samples
-  - MSU
-  - MPA
 
 
 summary: Program Proposal and Implementation Plan “First-year International Graduate Student Support”
@@ -57,7 +53,10 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - []
-
+tags:
+  - Samples
+  - MSU
+  - MPA
 -------
  
 
