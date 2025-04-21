@@ -60,6 +60,21 @@ tags:
 -------
  
 
+<div style="text-align: center;">
+  <a href="https://florvegacastillo.github.io/uploads/Program-Proposal-and-ImplementationPlan-FVC.pdf" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color:rgb(255, 0, 255);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    margin: 12px 0;
+  ">
+    Open PDF
+  </a>
+</div>
 
 
 <!--more-->

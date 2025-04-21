@@ -68,7 +68,7 @@ tags:
     text-decoration: none;
     border-radius: 6px;
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     margin: 12px 0;
   ">
     Open PDF
