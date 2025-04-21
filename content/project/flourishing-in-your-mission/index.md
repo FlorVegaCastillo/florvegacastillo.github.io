@@ -10,7 +10,7 @@ tags:
 
 
 summary: Flourishing in Your Mission - Program Proposal and Implementation Plan
-abstract: 'The Bozeman Chamber of Commerce conducted its Leadership Bozeman 37 program, which offers 12 sessions from August to May. For its 10th session, participants visited MSU to learn about leadership at this institution. Participants, who are business owners and other community leaders, heard about MSU Extension programs, the Land Grant mission, MSU Growth and perspectives from student leaders'
+abstract: 'This program implementation plan was our final project for PSCI591-Program Planning and Development. This detailed the findings and recommendations from an analysis of a community issue and a corresponding proposed programmatic solution to address the concerns. I proposed a new program to support international graduate students both once accepted to their programs and during their first year as students'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,6 +61,6 @@ projects:
 -------
  
 
--
+
 
 <!--more-->
