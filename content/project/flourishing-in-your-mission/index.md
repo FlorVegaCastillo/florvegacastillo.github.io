@@ -1,7 +1,7 @@
 ---
-title: Flourishing in Your Mission - Program Proposal and Implementation Plan
+title: Program Proposal and Implementation Plan “First-year International Graduate Student Support” 
 
-event: Flourishing in Your Mission - Program Proposal and Implementation Plan
+event: “First-year International Graduate Student Support” - Program Proposal and Implementation Plan
 event_url: https://florvegacastillo.github.io/uploads/Program-Proposal-and-ImplementationPlan-FVC.pdf
 tags:
   - Samples
@@ -9,7 +9,7 @@ tags:
   - MPA
 
 
-summary: Flourishing in Your Mission - Program Proposal and Implementation Plan
+summary: Program Proposal and Implementation Plan “First-year International Graduate Student Support”
 abstract: 'This program implementation plan was our final project for PSCI591 - Program Planning and Development. This detailed the findings and recommendations from an analysis of a community issue and a corresponding proposed programmatic solution to address the concerns. I proposed a new program to support international graduate students both once accepted to their programs and during their first year.'
 
 # Talk start and end times.
