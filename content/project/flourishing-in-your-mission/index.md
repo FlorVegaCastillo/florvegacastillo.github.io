@@ -10,7 +10,7 @@ tags:
 
 
 summary: Flourishing in Your Mission - Program Proposal and Implementation Plan
-abstract: 'This program implementation plan was our final project for PSCI591-Program Planning and Development. This detailed the findings and recommendations from an analysis of a community issue and a corresponding proposed programmatic solution to address the concerns. I proposed a new program to support international graduate students both once accepted to their programs and during their first year as students'
+abstract: 'This program implementation plan was our final project for PSCI591 - Program Planning and Development. This detailed the findings and recommendations from an analysis of a community issue and a corresponding proposed programmatic solution to address the concerns. I proposed a new program to support international graduate students both once accepted to their programs and during their first year.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
