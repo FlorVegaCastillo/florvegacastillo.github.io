@@ -1,8 +1,8 @@
 ---
 title: Independent Study - Lessons learned with Bienvenidos  
 
-event: Independent Study - Lessons learned with Bienvenidos
-event_url: https://florvegacastillo.github.io/uploads/Independent-Study-Lessons-learned-with-Bienvenidos.pdf
+# event: Independent Study - Lessons learned with Bienvenidos
+# event_url: https://florvegacastillo.github.io/uploads/Independent-Study-Lessons-learned-with-Bienvenidos.pdf
 
 
 summary: Independent Study - Lessons learned with Bienvenidos

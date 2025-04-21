@@ -1,8 +1,8 @@
 ---
 title: Leadership and Ethics term paper - Cooperation and coordination across MSU to better understand and serve international graduate students’ academic and career opportunities  
 
-event: Leadership and Ethics term paper - Cooperation and coordination across MSU to better understand and serve international graduate students’ academic and career opportunities
-event_url: https://florvegacastillo.github.io/uploads/Term-paper-for-Leadership-and-Ethics.pdf
+# event: Leadership and Ethics term paper - Cooperation and coordination across MSU to better understand and serve international graduate students’ academic and career opportunities
+# event_url: https://florvegacastillo.github.io/uploads/Term-paper-for-Leadership-and-Ethics.pdf
 
 
 summary: Leadership and Ethics term paper - Cooperation and coordination across MSU to better understand and serve international graduate students’ academic and career opportunities

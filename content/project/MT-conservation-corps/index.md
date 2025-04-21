@@ -1,8 +1,8 @@
 ---
 title: Montana Conservation Corps Program Evaluation - Alumni Career Outcomes Survey  
 
-event: Montana Conservation Corps Program Evaluation - Alumni Career Outcomes Survey
-event_url: https://florvegacastillo.github.io/uploads/Evaluation-Report-Group-Project-with-MCC.pdf
+# event: Montana Conservation Corps Program Evaluation - Alumni Career Outcomes Survey
+# event_url: https://florvegacastillo.github.io/uploads/Evaluation-Report-Group-Project-with-MCC.pdf
 
 
 summary: Montana Conservation Corps Program Evaluation - Alumni Career Outcomes Survey Evaluation Report
