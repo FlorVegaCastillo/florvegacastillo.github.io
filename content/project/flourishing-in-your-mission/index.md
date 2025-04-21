@@ -1,8 +1,8 @@
 ---
 title: Flourishing in Your Mission - Program Proposal and Implementation Plan
 
-sample: Flourishing in Your Mission - Program Proposal and Implementation Plan
-sample_url: https://florvegacastillo.github.io/uploads/Program-Proposal-and-ImplementationPlan-FVC.pdf
+event: Flourishing in Your Mission - Program Proposal and Implementation Plan
+event_url: https://florvegacastillo.github.io/uploads/Program-Proposal-and-ImplementationPlan-FVC.pdf
 tags:
   - Samples
   - MSU
