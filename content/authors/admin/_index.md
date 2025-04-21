@@ -304,7 +304,7 @@ awards:
 ## About Me
 
 Hi! My name is Flor Vega Castillo. I'm a Master in Public Administration student at Montana State University,USA.
-I hold an MSc in Public Relations from Montana State University - Billings, USA, and a BSc in Communication Sciences from Cesar Vallejo University, Peru.
+I hold an MS in Public Relations from Montana State University - Billings, USA, and a BS in Communication Sciences from Cesar Vallejo University, Peru.
 With nearly a decade of experience in communications and a solid background in community outreach, content development, relationship and community building and public services popularization, I believe there are always new ways to connect at a deeper and more meaningful level.
 
 
