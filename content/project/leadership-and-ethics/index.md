@@ -73,6 +73,6 @@ tags:
     font-size: 18px;
     margin: 12px 0;
   ">
-    Open PDF
+    🔗 Open PDF
   </a>
 </div>
