@@ -65,7 +65,7 @@ tags:
   <a href="https://florvegacastillo.github.io/uploads/Evaluation-Report-Group-Project-with-MCC.pdf" style="
     display: inline-block;
     padding: 12px 24px;
-    background-color:rgb(255, 0, 255);
+    background-color:rgba(255, 0, 255, 0.57);
     color: white;
     text-decoration: none;
     border-radius: 6px;
