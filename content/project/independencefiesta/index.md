@@ -14,7 +14,7 @@ featured: true
 focal_point: "top"
 ---
 
-The First-Generation Students Association (FGSA), student organization I presided between November 2022 until December 22, hosted "Independence Fiesta" an event that celebrated the Independence Days of Argentina, Colombia, Peru and Venezuela. After inviting the Fuerza Latinx student organization to join us in our efforts, we hosted this very successful *Fiesta* 
+The First-Generation Students Association (FGSA), student organization I presided between November 2022 until December 2023, hosted "Independence Fiesta" an event that celebrated the Independence Days of Argentina, Colombia, Peru and Venezuela. After inviting the Fuerza Latinx student organization to join us in our efforts, we hosted this very successful *Fiesta* 
 
 Around 250 people from Bozeman, Belgrade and Big Sky and other nearby areas, came to campus to join in a common sense of togetherness. This was possible thanks to our diligent planning committee, our committed volunteers (who volunteered to dance, decorate, greet and other tasks), our generous donors (MSU departments and offices as well as community public organizations) and our attendees, the best audience we could have asked for. We had two to three traditional dances from each country, live music, a DJ, traditional games, and these nations' cuisine. 
 
