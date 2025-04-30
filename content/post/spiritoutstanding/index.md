@@ -10,7 +10,7 @@ tags:
   - Awards
 image:
   caption: 'Photography by Colter Peterson'
-featured: true
+featured: false
 focal_point: "top"
 ---
 
