@@ -1,36 +1,43 @@
 ---
 title: Master in Public Administration Graduation
-summary: MSU Leadership Institute's Boardroom Bobcat program recognized its latest cohort during Graduation celebration
-date: 2025-04-24
+summary: I obtained a master in public administration degree from Montana State University
+date: 2025-05-09
 authors:
   - admin
 tags:
   - News
   - MSU
-  - Leadership
+  - Graduation
 image:
-  caption: 'Photography by Colter Peterson'
+  caption: 'Photography by Asad Noor'
 featured: true
 focal_point: "top"
 ---
 
- I completed the Boardroom Bobcat Program, a program run by the MSU Leadership Institute that seeks to connect students with the Bozeman community and earn hands-on experience in the nonprofit industry. I got matched with [Bienvenidos at Gallatin Valley](https://bienvenidosgv.org/) and worked along them as a Board member for ten months. MSU News Services created [an article](https://www.montana.edu/news/24486/ten-montana-state-students-complete-year-of-service-on-local-nonprofit-boards) about my cohort and our results.
+ I am thrilled to announce that I obtained a master in public administration degree from [Montana State University - MSU ](https://www.montana.edu/) with a 4.0 GPA. This is the second master's degree I succesfully complete in the United States. 
 
- My role at Bievenidos started as Chair of the Advisory Board Committee, where Spanish-speaking family representatives will come together and share their thoughts on different topics. The goal was for the Board to better understand the individuals we served and their needs. Finally, I proposed a new re-branding of their onboarding package, alligned with their revamped branding and finding multiple uses for it.
+ I completed this chapter grateful for the opportunities I had, the recognitions, and the great relationships I built in Montana. The "406 state" will have a special place in our blue & gold hearts forever. 💙 💛 
 
-This was a unique experience that provided me with valuable lessons about serving in a non-profit as a Board member.
+ After graduating, I moved to Caen, France, where I am exploring job opportunities in France and England. If you are interested in learning more about my profile, please check out my CV attached in my homepage. 
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="b.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Vanessa Zamora's, Bienvenidos Executive Director, comments during the ceremony. </figcaption>
+    <img src="a.JPG" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>The peacock-colored hood I am wearing represents my public administration major and the cream-colored hood I carry in my hand is the one I got for my public relations degree. </figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="c.jpg" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>The ten members posse for a group picture showing our diplomas. </figcaption>
+    <img src="b.JPG" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>The bobcat is Montana State University's mascot and it's an icon on campus. </figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="c.JPG" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
+    <figcaption>Picture taken after the graduation ceremony on May 09, 2025. </figcaption>
   </figure>
 </div>
 
