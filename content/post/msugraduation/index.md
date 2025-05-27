@@ -30,7 +30,7 @@ focal_point: "top"
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.JPG" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>The bobcat is Montana State University's mascot and it's an icon on campus. </figcaption>
+    <figcaption> Standing next to Montana State University'seal. MSU was created in 1893. </figcaption>
   </figure>
 </div>
 
