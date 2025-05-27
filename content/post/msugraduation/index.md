@@ -1,5 +1,5 @@
 ---
-title: I completed the Boardroom Bobcat program
+title: Master in Public Administration Graduation
 summary: MSU Leadership Institute's Boardroom Bobcat program recognized its latest cohort during Graduation celebration
 date: 2025-04-24
 authors:
