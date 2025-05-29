@@ -49,7 +49,7 @@ education:
   - area: Master of Public Administration
     institution: Montana State University
     date_start: 2022-08-01
-    date_end: 2025-05-31
+    date_end: 2025-05-08
     summary: |
       GPA: 4.0/4.0. Advisor: Dr. Eric K. Austin.
   - area: Master of Science in Public Relations
@@ -303,8 +303,7 @@ awards:
 
 ## About Me
 
-Hi! My name is Flor Vega Castillo. I'm a Master in Public Administration student at Montana State University,USA.
-I hold an MS in Public Relations from Montana State University - Billings, USA, and a BS in Communication Sciences from Cesar Vallejo University, Peru.
+Hi! My name is Flor Vega Castillo. I hold a Master in Public Administration from Montana State University, a Master of Science in Public Relations from Montana State University - Billings, USA, and a Bachelor's in Communication Sciences from Cesar Vallejo University, Peru.
 With nearly a decade of experience in communications and a solid background in community outreach, content development, relationship and community building and public services popularization, I believe there are always new ways to connect at a deeper and more meaningful level.
 
 
