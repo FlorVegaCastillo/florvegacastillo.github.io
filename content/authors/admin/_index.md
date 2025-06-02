@@ -90,6 +90,7 @@ work:
       - Developed new strategies for community outreach (awareness) and partners/donors (engagement).
       - Contributed to making messages and language more accessible to all audiences, including Spanish-speaking families.
       - Facilitated collaboration among nonprofit organizations by finding common ground across their mission statement.
+      - Boosted employee retention through surveys and other tools.
       - Advanced ways to engage current partners and donors, including creating a monthly newsletter and developing reels for social media and website.
       - Participated in fundraising planning activities with colleagues in the organization’s different offices across the state.
   - position: Graduate Writing Assistant (MSUB Academic Support Center)
