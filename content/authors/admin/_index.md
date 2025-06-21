@@ -25,7 +25,7 @@ role: Communications Professional
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Montana State University
-    url: https://www.montana.edu/gradschool/staff.html
+    url: https://www.montana.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

@@ -35,8 +35,8 @@ sections:
       title: '📚 My Portfolio'
       subtitle: ''
       text: |-
-        Welcome! I work on accessibility and belonging in the public sector, focusing on education, communications, culture, science, and technology. My interests also include multiculturalism and expanding opportunities for underserved and underrepresented communities in higher education and society at large.
-        Let's connect! 😃
+        Welcome! I am Communications Professional with solid PR background, Partnership Development and Retention skills, and Inclusive practices. I work with Multi-Stakeholder Engagement, including Internal Communications. My interests also include Multiculturalism and Leadership Development.
+    
     design:
       columns: '1'
   - block: collection
