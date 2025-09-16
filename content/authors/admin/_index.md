@@ -70,15 +70,18 @@ work:
     company_url: 'https://www.montana.edu/'
     company_logo: ''
     date_start: 2022-08-16
+    date_end: 2025-05-01
     summary: |2-
       Responsibilities include:
-      - Organize and host the Graduate School's signature annual events for prospective and current students.
-      - Advance recruitment initiatives and efforts across on-campus and off-campus fairs to increase our community outreach.
-      - Assist in the creation of annual recruitment and outreach plans.
-      - Develop graphic designs for promotional materials, event flyers, posters, postcards, and stickers among others for digital and physical outlets as well as social media videos.
-      - Interview current graduate students for the creation of new student success story entries.
-      - Streamline processes through cross-office training in admission-related tasks and information entry in the office manuals.
-      - Revitalize current email templates for email communication campaigns and create new templates for the same purpose.
+      -	Organized and hosted the Graduate School's signature annual events for prospective and current students.
+      -	Advanced recruitment initiatives and attended fairs and efforts across on-campus and off-campus fairs to increase our community outreach.
+      -	Assisted in the creation of annual recruitment and outreach plans.
+      -	Developed graphic designs used on promotional materials, event flyers, posters, postcards, and stickers, among others, for digital and physical outlets as well as social media videos.
+      -	Interviewed current graduate students for the creation of new student success story entries.
+      -	Streamlined processes through cross-office training in admission-related tasks and information entry in the office manuals.
+      -	Revitalized current email templates for email communication campaigns and created new templates for the same purpose.
+      -	Answered application and enrolment queries by phone, email, and social media messages.
+
   - position: Master Degree Summer Intern (Early Childhood Services)
     company_name: Family Outreach
     company_url: 'https://familyoutreach.org/'
