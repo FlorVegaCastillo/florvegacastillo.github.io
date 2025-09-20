@@ -34,7 +34,7 @@ focal_point: "top"
 
  Impactful storytelling, along with genuine care (which includes following up with PAs on their queries and applications), can greatly benefit your recruitment seasons.
 
- Find this and other posts on my [LinkedIn profile](https://www.linkedin.com/in/flor-vega-castillo/) and share your thoughts. 
+ Find this and other posts on [my LinkedIn profile](https://www.linkedin.com/in/flor-vega-castillo/) and share your thoughts. 
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
