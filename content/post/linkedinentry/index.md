@@ -34,26 +34,20 @@ focal_point: "top"
 
  Impactful storytelling, along with genuine care (which includes following up with PAs on their queries and applications), can greatly benefit your recruitment seasons.
 
-
+ Find this and other posts on my LinkedIn profile and share your thoughts. 
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.JPG" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>The peacock-colored hood I am wearing represents my public administration major and the cream-colored hood I carry in my hand is the one I got for my public relations degree. </figcaption>
+    <figcaption>"What working with an “A team” in Admissions & Recruitment taught me LinkedIn post". </figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="b.JPG" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption> Standing next to Montana State University'seal. MSU was created in 1893. </figcaption>
+    <figcaption> "One Hat To Rule Them All (Or None)" LinkedIn post.  </figcaption>
   </figure>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <figure style="text-align: center;">
-    <img src="c.JPG" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>Picture taken after the graduation ceremony on May 09, 2025. </figcaption>
-  </figure>
-</div>
 
