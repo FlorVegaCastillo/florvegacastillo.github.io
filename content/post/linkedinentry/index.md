@@ -39,7 +39,7 @@ focal_point: "top"
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
     <img src="a.JPG" alt="figure" width="60%" style="margin-left: auto; margin-right: auto; display: block;">
-    <figcaption>"What working with an “A team” in Admissions & Recruitment taught me LinkedIn post". </figcaption>
+    <figcaption> "What working with an “A team” in Admissions & Recruitment taught me" LinkedIn post. </figcaption>
   </figure>
 </div>
 
