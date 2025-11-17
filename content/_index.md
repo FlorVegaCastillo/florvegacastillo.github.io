@@ -35,7 +35,7 @@ sections:
       title: '📚 My Portfolio'
       subtitle: ''
       text: |-
-        Welcome! I am Communications Professional with solid PR background, Partnership Development and Recruitment skills. I work with Multi-Stakeholder Engagement and Inclusive practices. My interests also include Multiculturalism and Leadership Development.
+        I am Communications Professional with solid PR background, Partnership Development and Recruitment skills. I work with Multi-Stakeholder Engagement and Inclusive practices.
     
     design:
       columns: '1'
