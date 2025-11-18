@@ -310,4 +310,6 @@ awards:
 
 Hi! My name is Flor Vega Castillo. I hold a **Master in Public Administration** from Montana State University, a **Master of Science in Public Relations** from Montana State University - Billings, USA, and a **Bachelor's in Communication Sciences** from Cesar Vallejo University, Peru.
 
-With nearly a decade of experience in communications and a solid background in relationship building, content development and an overall service-oriented leadership style, I believe **there are always new ways to connect at a deeper and more meaningful level.** Access my [resume here](uploads/FlorVega-Castillo2025resume.pdf).
+With nearly a decade of experience in communications and a solid background in relationship building, content development and an overall service-oriented leadership style, I believe **there are always new ways to connect at a deeper and more meaningful level.** 
+
+Access my [resume here](uploads/FlorVega-Castillo2025resume.pdf) or download my full CV.
