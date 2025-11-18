@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download complete CV
+        text: Download full CV
         url: uploads/FlorVega-Castillo2025.pdf
     design:
       css_class: dark
