@@ -19,10 +19,6 @@ sections:
         text: Download Full CV
         url: uploads/FlorVega-Castillo2025.pdf
 
-      button:
-        text: Download Resume
-        url: uploads/FlorVega-Castillo2025 resume.pdf
-
     design:
       css_class: dark
       background:
