@@ -1,5 +1,5 @@
 ---
-title: MSU Grad Fair brought back its in-person session and offered seven online sessions people joining from all over the world
+title: MSU Grad Fair brought back its in-person session and offered seven virtual sessions people joining from all over the world
 summary: Five days filled with learning opportunities and meaningful connections with prospective graduate students at the Montana State University Grad Fair!
 date: 2024-11-12
 authors:
@@ -20,7 +20,7 @@ In previous [MSU Grad Fair](https://www.montana.edu/gradschool/admissions/grad-f
 - Approximately 80 attendees participated in the U.S.-based virtual session.
 - Around 100 attendees came to the in-person Grad Fair.
 
-I took a primary role in organizing, advertising, and hosting. Here are some of the tasks:
+I took a primary role in organising, advertising, and hosting. Here are some of the tasks:
 
 **Logistics:**  
 ●Booked the venue, designed the setup, and coordinated catering orders.  
@@ -28,7 +28,7 @@ I took a primary role in organizing, advertising, and hosting. Here are some of 
 ●Worked with the Office of International Programs to arrange hosts for the international virtual sessions.  
 ●Created a new design for the slides used during the info sessions and an auto-play presentation for the in-person fair, as well as the virtual sessions.  
 ●Developed welcome packets for booth representatives.   
-●Created personalized name tags.  
+●Created personalised name tags.  
 
 **Advertisement:**   
 ♦Worked with University Communications to assess and refine the design materials.  
@@ -36,7 +36,7 @@ I took a primary role in organizing, advertising, and hosting. Here are some of 
 ♦Distributed event graphics through MSU's digital outlets (screens in housing residences and dining halls, newsletters, event calendars, and announcements).  
 ♦Coordinated a local radio Public Service Announcement (PSA).  
 ♦Organized and attended tabling opportunities to increase event awareness.  
-♦Connected with student organizations to help promote the event.  
+♦Connected with student organisations to help promote the event.  
 ♦Created content for the event website.  
 ♦Drafted a press release for potential publication or news article creation.  
 ♦Photo coverage on the day of the event.  
