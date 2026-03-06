@@ -74,13 +74,13 @@ work:
     date_end: 2025-05-01
     summary: |2-
       Responsibilities include:
-      -	Organized and hosted the Graduate School's signature annual events for prospective and current students.
+      -	Organised and hosted the Graduate School's signature annual events for prospective and current students.
       -	Advanced recruitment initiatives and attended fairs and efforts across on-campus and off-campus fairs to increase our community outreach.
       -	Assisted in the creation of annual recruitment and outreach plans.
       -	Developed graphic designs used on promotional materials, event flyers, posters, postcards, and stickers, among others, for digital and physical outlets as well as social media videos.
       -	Interviewed current graduate students for the creation of new student success story entries.
       -	Streamlined processes through cross-office training in admission-related tasks and information entry in the office manuals.
-      -	Revitalized current email templates for email communication campaigns and created new templates for the same purpose.
+      -	Revitalised current email templates for email communication campaigns and created new templates for the same purpose.
       -	Answered application and enrolment queries by phone, email, and social media messages.
 
   - position: Master Degree Summer Intern (Early Childhood Services)
@@ -93,7 +93,7 @@ work:
       Responsibilities include:
       - Developed new strategies for community outreach (awareness) and partners/donors (engagement).
       - Contributed to making messages and language more accessible to all audiences, including Spanish-speaking families.
-      - Facilitated collaboration among nonprofit organizations by finding common ground across their mission statement.
+      - Facilitated collaboration among nonprofit organisations by finding common ground across their mission statement.
       - Boosted employee retention through surveys and other tools.
       - Advanced ways to engage current partners and donors, including creating a monthly newsletter and developing reels for social media and website.
       - Participated in fundraising planning activities with colleagues in the organization’s different offices across the state.
@@ -112,7 +112,7 @@ work:
       - Executed graphic design pieces for social media and other physical platforms.
       - Produced and edited institutional videos.
       - Led blog management and developed news articles
-  - position: President and Co-founder (Online nonprofit organization)
+  - position: President and Co-founder (Online nonprofit organisation)
     company_name: Cuenta Conmigo
     company_url: 'https://www.instagram.com/cuentaconmigocomunidad/'
     company_logo: ''
@@ -120,7 +120,7 @@ work:
     date_end: 2023-07-31
     summary: |2-
       Responsibilities include:
-      - Formalized institutional cooperation agreements with other nonprofit organizations, schools, and student organizations.
+      - Formalised institutional cooperation agreements with other nonprofit organisations, schools, and student organisations.
       - Facilitated the creation of all materials used in the workshops as well as performed as a speaker for such events for Peruvian teenagers aged 14-17.
       - Promoted all social media and local press activities and served as a spokesperson in interviews.
   - position: Communications Analyst (Public Relations and Affairs Office)
@@ -135,8 +135,8 @@ work:
       - Oversaw the institutional media coverage of the institute’s activities, especially those executed by the research groups.
       - Trained spokespeople, facilitated key messages before interviews, and attended those with them.
       - Monitored overall media presence and boosted local media connections.
-      - Traveled to different regions as a media representative for a science popularization project with a main component of education, communication, and technology.
-      - Coordinated the Executive Director’s mobilization, speeches, reports, and similar duties.
+      - Traveled to different regions as a media representative for a science popularisation project with a main component of education, communication, and technology.
+      - Coordinated the Executive Director’s travel arrangements, speeches, reports, and similar duties.
       - Served as an English and Spanish interpreter during international cooperation meetings.
       - Interpreted at meetings with the Japanese Embassy, Korean university partners, American university and company partners, and Indian Representatives.
       - Performed emcee roles and tour guide through our institution for college students' visits to the institute.
@@ -256,7 +256,7 @@ awards:
     awarder: Office of Student Engagement
     icon: MSU
     summary: |
-      The award recognizes the student organization that displays outstanding contributions to the MSU community, student members and fosters leadership within their organization.
+      The award recognizes the student organisation that displays outstanding contributions to the MSU community, student members and fosters leadership within their organisation.
 
   - title: MSU Billings' Yellowstone Award (Spring 2022)
     url: https://www.linkedin.com/in/flor-vega-castillo/details/honors/
@@ -308,8 +308,8 @@ awards:
 
 ## About Me
 
-Hi! My name is Flor Vega Castillo. I hold a **Master in Public Administration** from Montana State University, a **Master of Science in Public Relations** from Montana State University - Billings, USA, and a **Bachelor's in Communication Sciences** from Cesar Vallejo University, Peru.
+Hello! My name is Flor Vega Castillo. I hold a **Master in Public Administration** from Montana State University, a **Master of Science in Public Relations** from Montana State University - Billings, USA, and a **Bachelor's in Communication Sciences** from Cesar Vallejo University, Peru.
 
-With nearly a decade of experience in communications and a solid background in relationship building, content development and an overall service-oriented leadership style, I believe **there are always new ways to connect at a deeper and more meaningful level.** 
+With nearly a decade of experience in communications and a solid background in relationship building, content development and an overall customer-oriented leadership style, I believe **there are always new ways to connect at a deeper and more meaningful level.** 
 
 Access my [resume here](uploads/FlorVega-Castillo2025resume.pdf) or download my full CV.
