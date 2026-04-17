@@ -20,9 +20,9 @@ focal_point: "top"
 
   A couple of interviews I want to highlight are the ones I conducted to:
   
-  Jose Oliden Martinez, university professor, former INICTEL-UNI Executive Director (the National Research and Training in Telecommunications Institute), 
+  Jose Oliden Martinez, university professor, former INICTEL-UNI Executive Director (the National Research and Training in Telecommunications Institute), and ENGITRONIC co-founder.
   
-  and Dr. Marco Apolinario, post-doctoral researcher in NeuroAI at TU Delf (Netherlands) and a recipient of the Beca Generación del Bicentenario (PRONABEC) fellowship and the NSF AccelNet NeuroPAC Fellowship.
+  Dr. Marco Apolinario, post-doctoral researcher in NeuroAI at TU Delf (Netherlands) and a recipient of the Beca Generación del Bicentenario (PRONABEC) fellowship and the NSF AccelNet NeuroPAC Fellowship.
 
   The interview titles are translated as:
 
