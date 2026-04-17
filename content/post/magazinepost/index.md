@@ -36,14 +36,14 @@ focal_point: "top"
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="a.JPG" alt="figure" width="80%" style="margin-left: auto; margin-right: auto; display: block;">
+    <img src="a.JPG" alt="figure" width="100%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption> “Peru: Perspectives on Current and Emerging Technologies” — Interview with José Oliden Martínez </figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="b.JPG" alt="figure" width="80%" style="margin-left: auto; margin-right: auto; display: block;">
+    <img src="b.JPG" alt="figure" width="100%" style="margin-left: auto; margin-right: auto; display: block;">
     <figcaption> “The Human Brain Is the Most Efficient Computer” — Interview with Dr. Marco Apolinario  </figcaption>
   </figure>
 </div>
