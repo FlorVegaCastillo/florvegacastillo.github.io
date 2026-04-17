@@ -10,7 +10,7 @@ tags:
   - Admissions
 image:
   caption: ''
-featured: true
+featured: false
 focal_point: "top"
 ---
 
