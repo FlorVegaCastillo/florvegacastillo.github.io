@@ -14,7 +14,7 @@ featured: true
 focal_point: "top"
 ---
 
-  For the APTC Magazine's most recent edition (April 26, Number 25), I generated the content and shaped its voice and style. I also introduced a science communication component to address more complex topics.
+  For the APTC Magazine's most recent edition (April 2026, Number 25), I generated the content and shaped its voice and style. I also introduced a science communication component to address more complex topics.
 
   The Peruvian Telecommunications Association (APTC) publishes the magazine in both print (distributed across various regions and key industry events), and digital formats to ensure wider accessibility.
 
