@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Communications Professional
+role: Communications & HE Professional 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -66,6 +66,12 @@ education:
     summary: |
       Summa cum laude
 work:
+  - position: Operations Support Officer (School of Medicine, Pharmacy and Biosciences)
+    company_name: Aston University
+    company_url: 'https://www.aston.ac.uk/'
+    company_logo: ''
+    date_start: 2026-04-27 
+
   - position: Graduate Recruitment and Admissions Assistant (MSU Graduate School Department)
     company_name: Montana State University
     company_url: 'https://www.montana.edu/'
