@@ -10,7 +10,7 @@ tags:
   - Editorial
 image:
   caption: ''
-featured: true
+featured: false
 focal_point: "top"
 ---
 
