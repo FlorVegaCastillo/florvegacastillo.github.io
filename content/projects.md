@@ -13,7 +13,7 @@ sections:
     content:
       count: 15
       title: Selected Projects
-      text: I enjoy making things happen, whether if it is in the planning, managment, execution phase or a mix of them all.
+      text: Making things happen. As simple as that.
       filters:
         folders:
           - project
