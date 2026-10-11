@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Flor Vega Castillo
+title: Flor Vega
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Flor
-last_name: Vega Castillo
+last_name: Vega
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Communications & HE Professional 
+role: Communications & Higher Education 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
