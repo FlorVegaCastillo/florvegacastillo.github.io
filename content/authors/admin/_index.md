@@ -327,4 +327,4 @@ Hello! My name is Flor Vega. I hold a **Master in Public Administration** from M
 
 With nearly a decade of experience in communications and a solid background in relationship building, content development and an overall people-first leadership style in higher education, I believe **there are always new ways to connect at a deeper and more meaningful level.** 
 
-Access my [resume here](uploads/FlorVega-Castillo2025resume.pdf) or download my full CV.
+Access my [resume here](uploads/FlorVega-Resume 2026 - NEW.pdf) or download my full CV.
