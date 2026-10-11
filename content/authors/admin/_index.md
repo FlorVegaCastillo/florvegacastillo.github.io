@@ -70,7 +70,16 @@ work:
     company_name: Aston University
     company_url: 'https://www.aston.ac.uk/'
     company_logo: ''
-    date_start: 2026-04-27 
+    date_start: 2026-04-27
+    summary: |2-
+      Responsibilities include:
+      -	Provide administrative and operational support for the School of Medicine, Pharmacy & Biosciences, focusing primarily on the Biosciences Department.
+      - Manage and distribute the weekly School (MPB) Newsletter, featuring events, achievements, opportunities, and other key information.
+      - Plan and execute events by coordinating venue and room bookings, ordering catering, and managing related purchasing.
+      - Lead strategic projects that enhance the branding and reputation of the School in compliance with university policies.
+      - Manage diaries and coordinate meetings for the Executive Dean and Department Heads as needed.
+      - Represent the School in university-wide activities, including Graduation and planning meetings with external university partners.
+      - Develop operational tracking systems, output reports, and outcome evaluations aligned with COO School Operations core services and KPIs.
 
   - position: Graduate Recruitment and Admissions Assistant (MSU Graduate School Department)
     company_name: Montana State University
