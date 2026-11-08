@@ -66,14 +66,14 @@ education:
     summary: |
       Summa cum laude
 work:
-  - position: Operations Support Officer (School of Medicine, Pharmacy and Biosciences)
+  - position: Operations Support Officer (School of Medicine, Health and Life Sciences)
     company_name: Aston University
     company_url: 'https://www.aston.ac.uk/'
     company_logo: ''
     date_start: 2026-04-27
     summary: |2-
       Responsibilities include:
-      -	Provide administrative and operational support for the School of Medicine, Pharmacy & Biosciences, focusing primarily on the Biosciences Department.
+      -	Provide administrative and operational support for the School of Medicine, Health and Life Sciences, focusing primarily on the Biosciences Department.
       - Manage and distribute the weekly School (MPB) Newsletter, featuring events, achievements, opportunities, and other key information.
       - Plan and execute events by coordinating venue and room bookings, ordering catering, and managing related purchasing.
       - Lead strategic projects that enhance the branding and reputation of the School in compliance with university policies.
